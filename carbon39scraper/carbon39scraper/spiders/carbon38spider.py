@@ -8,5 +8,5 @@ class CarbonSider(scrapy.Spider):
             yield {
                 'name': products.css('h3.ProductItem__Designer::text').get(),
                 'price': products.css('span.ProductItem__Price::text').get().replace('$',''),
-                'link': product.css('h2.ProductItem__Title a::attr(href)').get(),
+                'link': products.css('h2.ProductItem__Title a::attr(href)').get(),
             }
