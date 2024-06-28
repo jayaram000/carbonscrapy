@@ -21,8 +21,12 @@ class CarbonSpider(scrapy.Spider):
     def parse_product(self,response):
 
         yield{
-                'breadcrumbs': response.css('ul.breadcrumbs li a::text').getall(),
-                'name':response.css('h1.product-name::text').get().strip(),
+                'breadcrumbs' : response.css('ul.breadcrumbs li a::text').getall(),
+                'product_name' : response.css('h1.ProductMeta__Title::text').get().strip(),
+                'brand' : response.css('h2.ProductMeta__Vendor a::text').get().strip(),
+                 'price' : response.css('span.ProductMeta__Price::text').get().strip(),
+                 "image_url" : response.css('div.AspectRatio img::attr(src)').get().strip()
+                
 
         
         }
