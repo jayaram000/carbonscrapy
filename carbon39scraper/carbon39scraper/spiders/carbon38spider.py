@@ -25,7 +25,7 @@ class CarbonSpider(scrapy.Spider):
                 'product_name' : response.css('h1.ProductMeta__Title::text').get().strip(),
                 'brand' : response.css('h2.ProductMeta__Vendor a::text').get().strip(),
                  'price' : response.css('span.ProductMeta__Price::text').get().strip(),
-                 "image_url" : response.css('div.AspectRatio img::attr(src)').get().strip()
+                 "image_url" : "https:" + response.css('div.AspectRatio img::attr(src)').get().strip()
                 
 
         
