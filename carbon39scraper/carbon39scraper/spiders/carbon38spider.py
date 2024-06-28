@@ -1,5 +1,6 @@
 import scrapy 
 from bs4 import BeautifulSoup
+import re
 
 class CarbonSpider(scrapy.Spider):
     name = 'carbon'
@@ -29,6 +30,8 @@ class CarbonSpider(scrapy.Spider):
                 'reviews' : response.css('div.yotpo-bottom-line-basic-text::text').get().split(" ")[2] if response.css('div.yotpo-bottom-line-basic-text::text').get() else "0 Reviews",
                 'colour': response.css('span.ProductForm__SelectedValue ::text').get(),
                 'size' :[size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()],
+                "description":  response.css('div.Faq__AnswerWrapper span::text').get().strip() if response.css('div.Faq__AnswerWrapper span::text').get() else "No Description",
+                "sku": response.css('span.sku::text').get()
                 
 
         
