@@ -37,7 +37,7 @@ class CarbonSpider(scrapy.Spider):
         product_id = product_id_match.group(1) if product_id_match else None
 
         yield{
-                'breadcrumbs' : response.css('ul.breadcrumb li ::text').getall(),
+                'breadcrumbs' : response.css('nav.breadcrumb li ::text').getall(),
                 'product_name' : response.css('h1.ProductMeta__Title::text').get().strip(),
                 'brand' : response.css('h2.ProductMeta__Vendor a::text').get().strip(),
                 'price' : response.css('span.ProductMeta__Price::text').get().strip(),
