@@ -20,9 +20,17 @@ class CarbonSpider(scrapy.Spider):
 
             
     def parse_product(self,response):
+        script_content = response.xpath('//script[contains(., "var product = [{")]/text()').get()
+
+        # Find SKU and product ID using regex
+        sku_match = re.search(r"'sku'\s*:\s*\"(.*?)\"", script_content)
+        product_id_match = re.search(r"'id'\s*:\s*(\d+)", script_content)
+
+        sku = sku_match.group(1) if sku_match else None
+        product_id = product_id_match.group(1) if product_id_match else None
 
         yield{
-                'breadcrumbs' : response.css('ul.breadcrumbs li a::text').getall(),
+                'breadcrumbs' : response.css('ul.breadcrumb li ::text').getall(),
                 'product_name' : response.css('h1.ProductMeta__Title::text').get().strip(),
                 'brand' : response.css('h2.ProductMeta__Vendor a::text').get().strip(),
                 'price' : response.css('span.ProductMeta__Price::text').get().strip(),
@@ -31,8 +39,8 @@ class CarbonSpider(scrapy.Spider):
                 'colour': response.css('span.ProductForm__SelectedValue ::text').get(),
                 'size' :[size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()],
                 "description":  response.css('div.Faq__AnswerWrapper span::text').get().strip() if response.css('div.Faq__AnswerWrapper span::text').get() else "No Description",
-                "sku": response.css('span.sku::text').get()
-                
+                "sku": sku,
+                "product_id":product_id,
 
         
         }
