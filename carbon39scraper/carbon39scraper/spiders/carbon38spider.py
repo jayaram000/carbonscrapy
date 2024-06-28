@@ -4,7 +4,14 @@ import re
 
 class CarbonSpider(scrapy.Spider):
     name = 'carbon'
-    start_urls = [' https://www.carbon38.com/shop-all-activewear/tops']
+    start_urls = [' https://www.carbon38.com/shop-all-activewear/tops',
+                'https://carbon38.com/collections/leggings?filter.p.m.custom.available_or_waitlist=1',
+                'https://carbon38.com/collections/skirts-shorts?filter.p.m.custom.available_or_waitlist=1',
+                'https://carbon38.com/collections/sports-bras?filter.p.m.custom.available_or_waitlist=1',
+                'https://carbon38.com/collections/sweatshirts-hoodies?filter.p.m.custom.available_or_waitlist=1'
+                'https://carbon38.com/collections/bottoms?filter.p.m.custom.available_or_waitlist=1',
+                'https://carbon38.com/collections/sweaters-knits?filter.p.m.custom.available_or_waitlist=1',
+                ]
 
 
     def parse(self,response):

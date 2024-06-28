@@ -12,6 +12,8 @@ BOT_NAME = "carbon39scraper"
 SPIDER_MODULES = ["carbon39scraper.spiders"]
 NEWSPIDER_MODULE = "carbon39scraper.spiders"
 
+# settings.py
+FEED_EXPORT_INDENT = 4
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "carbon39scraper (+http://www.yourdomain.com)"
