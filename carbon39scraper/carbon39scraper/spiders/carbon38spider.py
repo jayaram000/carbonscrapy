@@ -24,8 +24,11 @@ class CarbonSpider(scrapy.Spider):
                 'breadcrumbs' : response.css('ul.breadcrumbs li a::text').getall(),
                 'product_name' : response.css('h1.ProductMeta__Title::text').get().strip(),
                 'brand' : response.css('h2.ProductMeta__Vendor a::text').get().strip(),
-                 'price' : response.css('span.ProductMeta__Price::text').get().strip(),
-                 "image_url" : "https:" + response.css('div.AspectRatio img::attr(src)').get().strip()
+                'price' : response.css('span.ProductMeta__Price::text').get().strip(),
+                'image_url' : "https:" + response.css('div.AspectRatio img::attr(src)').get().strip(),
+                'reviews' : response.css('div.yotpo-bottom-line-basic-text::text').get().split(" ")[2] if response.css('div.yotpo-bottom-line-basic-text::text').get() else "0 Reviews",
+                'colour': response.css('span.ProductForm__SelectedValue ::text').get(),
+                'size' :[size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()],
                 
 
         
