@@ -1,6 +1,8 @@
 import scrapy 
-from bs4 import BeautifulSoup
 import re
+# from carbon39scraper.items import CarbonItem
+# from bs4 import BeautifulSoup
+
 
 class CarbonSpider(scrapy.Spider):
     name = 'carbon'
@@ -30,25 +32,37 @@ class CarbonSpider(scrapy.Spider):
             
     def parse_product(self,response):
 
-
-        script_content = response.xpath('//script[contains(., "var product = [{")]/text()').get()  #here the sku of a particular product is extracted from the script tag with the re module
-        sku_match = re.search(r"'sku'\s*:\s*\"([^-]+-[^-]+-[^-]+)", script_content)
-
-        sku = sku_match.group(1) if sku_match else None
         product_name = response.css('h1.ProductMeta__Title::text').get().strip()
         brand = response.css('h2.ProductMeta__Vendor a::text').get().strip()
- 
+        price = response.css('span.ProductMeta__Price::text').get().strip().replace('USD', '')
+        image_url = "https:" + response.css('div.AspectRatio img::attr(src)').get().strip()
+        reviews = response.css('div.yotpo-sr-bottom-line-right-panel divyotpo-sr-bottom-line-text.yotpo-sr-bottom-line-text--right-panel::text').get().strip() if response.css('div.yotpo-sr-bottom-line-right-panel::text').get() else "0 Reviews"
+        colour = response.css('span.ProductForm__SelectedValue ::text').get().strip()
+        sizes = [size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()]
+        description = response.css('div.Faq__AnswerWrapper span::text').get().strip() if response.css('div.Faq__AnswerWrapper span::text').get() else "No Description"
+        product_id = response.css('status-save-button::attr(product-id)').get()
 
-        yield{
-                'breadcrumbs': ["home","Designers",brand,product_name],
-                'product_name': product_name,
-                'brand': brand,
-                'price': response.css('span.ProductMeta__Price::text').get().strip().replace('USD',''),
-                'image_url': "https:" + response.css('div.AspectRatio img::attr(src)').get().strip(),
-                'reviews': response.css('div.yotpo-sr-bottom-line-right-panel::text').get() if response.css('div.yotpo-sr-bottom-line-right-panel::text').get() else "0 Reviews",
-                'colour': response.css('span.ProductForm__SelectedValue ::text').get(),
-                'size':[size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()],  # here i used list comprehension to take the size of the product only and the strip removes the spaces
-                "description":  response.css('div.Faq__AnswerWrapper span::text').get().strip() if response.css('div.Faq__AnswerWrapper span::text').get() else "No Description",
-                "sku": sku,
-                "product_id":response.css('status-save-button::attr(product-id)').get() 
-        }
+        item = {
+        'breadcrumbs': ["home", "Designers", brand, product_name],
+        'product_name': product_name,
+        'brand': brand,
+        'price': price,
+        'image_url': image_url,
+        'reviews': reviews,
+        'colour': colour,
+        'sizes': sizes,
+        'description': description,
+        'sku': None,  # Placeholder for SKU extraction
+        'product_id': product_id,
+    }
+
+        script_content = response.xpath('//script[contains(., "var product = [{")]/text()').get()  #here the sku of a particular product is extracted from the script tag with the re module
+        sku_match = re.search(r"'sku'\s*:\s*\"(.*?)\"", script_content)
+
+        if sku_match:
+            item['sku'] = sku_match.group(1)
+        else:
+            item['sku'] = None
+        
+
+        yield item
