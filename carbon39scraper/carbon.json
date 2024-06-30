@@ -32,15 +32,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "VARLEY",
-        "Penelope Performance Polo"
+        "CARBON38",
+        "Colorblock High Neck Tank"
     ],
-    "product_name": "Penelope Performance Polo",
-    "brand": "VARLEY",
-    "price": "$66.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR02071-WHTBLUDRK-Penelope-Performance-Polo-color-White-Blue-Knits_60851-Edit.jpg?v=1716337230&width=1000",
+    "product_name": "Colorblock High Neck Tank",
+    "brand": "CARBON38",
+    "price": "$108.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD345-BLUE-24SM-Colorblock-High-Neck-Tank-color-Navy-Digital-Green_1900-Edit.jpg?v=1716245205&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White / Blue Knits",
+    "colour": "Navy/ Digital Green",
     "sizes": [
         "XS",
         "S",
@@ -53,193 +53,21 @@
         "L",
         "XL"
     ],
-    "description": "No Description",
-    "sku": "VARL-VAR02071-WHTBLUDRK-XS",
-    "product_id": "7538001150141"
+    "description": "81% Nylon 19% Spandex",
+    "sku": "CARB-YD345-BLUE-24SM-XS",
+    "product_id": "7631308619965"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Slouchy Knit Sweater"
+        "Mod Tennis Top"
     ],
-    "product_name": "Slouchy Knit Sweater",
+    "product_name": "Mod Tennis Top",
     "brand": "CARBON38",
     "price": "$158.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6066-BLUE-24SS-Oversized-Off-Shoulder-Sweater-color-off-white-navy-Stripe_0014-Edit.jpg?v=1715792179&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Off White / Navy Stripe",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Slouchy Knit Sweater is the perfect transitional layering piece. Throw it on over your leggings for an elevated look. This sweater can be styled both off the shoulder or boat neck style.",
-    "sku": "CARB-YD6066S-BLUE-24SS-XS",
-    "product_id": "7509475426493"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "NORMA KAMALI",
-        "One Shoulder Peasant Top"
-    ],
-    "product_name": "One Shoulder Peasant Top",
-    "brand": "NORMA KAMALI",
-    "price": "$145.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-KK3226PL786001-BLKBLK-One-Shoulder-Peasant-Top-color-Black_0043-Edit.jpg?v=1717187790&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "No Description",
-    "sku": "NORMA-KK3226PL786001-BLKBLK-XS",
-    "product_id": "7695943762109"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Sleeveless Golf Top"
-    ],
-    "product_name": "Sleeveless Golf Top",
-    "brand": "CARBON38",
-    "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6096-WHT-24SM-Sleeveless-Golf-Top-color-White_0996-Edit.jpg?v=1717445041&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "81% NYLON 19% SPANDEX",
-    "sku": "CARB-YD6096-WHT-24SM-XS",
-    "product_id": "7587279798461"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "FORE-TE",
-        "Margot Pullover"
-    ],
-    "product_name": "Margot Pullover",
-    "brand": "FORE-TE",
-    "price": "$142.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/FORETE-F1007B-BLKBLK-Margot-Pullover-color-Black_1690-Edit.jpg?v=1718065269&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "Lightweight technical performance fabric (wind and water resistant)",
-    "sku": "FORETE-F1007B-BLKBLK-XS",
-    "product_id": "7687591362749"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "SER.O.YA",
-        "Sharlie Sweater"
-    ],
-    "product_name": "Sharlie Sweater",
-    "brand": "SER.O.YA",
-    "price": "$178.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/SERO-3752-12-WHTBLUDRK-Sharlie-Sweater-color-White-Navy-Stripe_0306-Edit.jpg?v=1717179547&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White / Navy Stripe",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Cropped knit sweater with striped detailing across the chest and arms. Pair with the Poe Knit Pant or any of the Carbon38 Navy leggings.",
-    "sku": "SERO-3752-12-WHTBLUDRK-XS",
-    "product_id": "7521285243069"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "NORMA KAMALI",
-        "Lazy Diana Top"
-    ],
-    "product_name": "Lazy Diana Top",
-    "brand": "NORMA KAMALI",
-    "price": "$160.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-ST2246MDE46003-GREYGRYDRK-Lazy-Diana-Top-color-Dark-Grey_0103-Edit.jpg?v=1717190937&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Dark Grey",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "No Description",
-    "sku": "NORMA-ST2246MDE46003-GREYGRYDRK-XS",
-    "product_id": "7590322897085"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Long Sleeve Off Shoulder Tee"
-    ],
-    "product_name": "Long Sleeve Off Shoulder Tee",
-    "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-DEEPLAG-24SM-Long-Sleeve-Off-Shoulder-Tee-color-Deep-Lagoon_0039-Edit.jpg?v=1715966842&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD353-DEEPLAG-24SM-Mod-Tennis-Top-color-Deep-Lagoon_1804-Edit.jpg?v=1715816632&width=1000",
     "reviews": "0 Reviews",
     "colour": "Deep Lagoon",
     "sizes": [
@@ -254,36 +82,9 @@
         "L",
         "XL"
     ],
-    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top for easy layering. Great for any occasion and pairs easily with any of our Melt, Takara, and Ribbed workout sets.",
-    "sku": "CARB-YD6028-DEEPLAG-24SM-XS",
-    "product_id": "7587695231165"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "525",
-        "Demi Tank"
-    ],
-    "product_name": "Demi Tank",
-    "brand": "525",
-    "price": "$78.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/525-110004778-WHTWHI-Demi-Tank-color-Bleach-White_65376-Edit.jpg?v=1717696385&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Bleach White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "Crafted for chic simplicity, its high crew neck adds a touch of sophistication to casual comfort. Perfect for layering or standalone style, pair it effortlessly with skirts or denim for a versatile look.",
-    "sku": "525-110004778-WHTWHI-XS",
-    "product_id": "7558342115517"
+    "description": "The Mod Tennis Top is a slightly cropped sleeveless top with a perfectly contrasted hem. This tennis top matches perfectly back to the Mod Tennis Skirt for a full look.",
+    "sku": "CARB-YD353-DEEPLAG-24SM-XS",
+    "product_id": "7587304308925"
 },
 {
     "breadcrumbs": [
@@ -316,359 +117,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "One Shoulder Convertible Tank in Melt"
+        "VARLEY",
+        "Delancy Knit Vest"
     ],
-    "product_name": "One Shoulder Convertible Tank in Melt",
-    "brand": "CARBON38",
+    "product_name": "Delancy Knit Vest",
+    "brand": "VARLEY",
     "price": "$98.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD273LP-SNOWLEO-24SM-One-Shoulder-Convertible-Bra-Top-color-Snow-Leopard_63834-Edit_53c0cbf1-5adc-41b1-b398-9c663b0434f3.jpg?v=1717540261&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01541-PNKPINLT-Delancy-Knit-Vest-color-Woodrose_60695-Edit.jpg?v=1716337524&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Snow Leopard",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
-    "sku": "CARB-YD6014LP-SNOWLEO-24SM-XS",
-    "product_id": "7567394209981"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Short Sleeve Collared Cardigan"
-    ],
-    "product_name": "Short Sleeve Collared Cardigan",
-    "brand": "CARBON38",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6097-BLUE-24SM-Short-Sleeve-Collared-Cardigan-color-Navy_0018-Edit.jpg?v=1716318132&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Navy",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Collared Cardigan elevates any look with a plated hem, contrast stitching, ruffle neck, short sleeves, and a full zip. This top pairs perfectly back to our High Rise Scuba Short.",
-    "sku": "CARB-YD6097-BLUE-24SM-XS",
-    "product_id": "7587525656765"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Short Sleeve Collared Cardigan"
-    ],
-    "product_name": "Short Sleeve Collared Cardigan",
-    "brand": "CARBON38",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6097-WHT-24SM-Short-Sleeve-Collared-Cardigan-color-White_61269-Edit.jpg?v=1716314216&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Collared Cardigan elevates any look with a plated hem, contrast stitching, short sleeves, and a full zip. This top pairs perfectly back to our High Rise Scuba Short.",
-    "sku": "CARB-YD6097-WHT-24SM-XS",
-    "product_id": "7587521265853"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "NORMA KAMALI",
-        "Super Oversized Boyfriend NK Shirt Bodysuit"
-    ],
-    "product_name": "Super Oversized Boyfriend NK Shirt Bodysuit",
-    "brand": "NORMA KAMALI",
-    "price": "$155.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-ST224BPH183813-BLUEBLUMED-Super-Oversized-Boyfriend-NK-Shirt-Bodysuit-color-Misty-Blue_64664-Edit.jpg?v=1714517615&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Misty Blue",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "PROTECTIVE ADHESIVE STRIP MUST REMAIN IN GARMENT TO BE ELIGIBLE FOR REFUND",
-    "sku": "NORMA-ST224BPH183813-BLUEBLUMED-XS",
-    "product_id": "7585457569981"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Short Sleeve Pocket Tee"
-    ],
-    "product_name": "Short Sleeve Pocket Tee",
-    "brand": "CARBON38",
-    "price": "$78.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD638A-QUIETHRBR-24SS-Short-Sleeve-Pocket-Tee-color-Quiet-Harbor_44005-Edit.jpg?v=1707846894&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Quiet Harbor",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Our new Short Sleeve Pocket Tee is the perfect everyday essential. Featuring a pocket in the front, this crewneck t-shirt hits at just the right length to pair with your favorite leggings.",
-    "sku": "CARB-YD638A-QUIETHRBR-24SS-XS",
-    "product_id": "7580087976125"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "525",
-        "Rachel Sailor Open Stitch Pullover"
-    ],
-    "product_name": "Rachel Sailor Open Stitch Pullover",
-    "brand": "525",
-    "price": "$139.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/525-100104W15-BLUEBLUDRK-Rachel-Sailor-Open-Stitch-Pullover-color-Forever-Blue-Multi_39311-Edit.jpg?v=1707781483&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Forever Blue Multi",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "100% cotton. Turn garment inside out. Machine wash cold water with like colors. Gentle cycle. Tumble dry low. Do not bleach. Cool iron if needed.",
-    "sku": "525-110020594-BLUEBLUDRK-S",
-    "product_id": "7506533810365"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Long RacerBack Tank"
-    ],
-    "product_name": "Long RacerBack Tank",
-    "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-SWEETLVNDR-24SS-Long-RacerBack-Tank-color-Sweet-Lavender_1854-Edit.jpg?v=1707772944&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Sweet Lavender",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Carbon38 Long Racer Back Tank in our classic color, White is perfect for everyday wear. Match this back to our Sweet Lavender Takara leggings for a simple and elevated workout fit.",
-    "sku": "CARB-YD335-SWEETLVNDR-24SS-S",
-    "product_id": "7569966956733"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "One Shoulder Convertible Tank in Heather Melt"
-    ],
-    "product_name": "One Shoulder Convertible Tank in Heather Melt",
-    "brand": "CARBON38",
-    "price": "$108.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6014H-QUIETHRBR-24SS-One-Shoulder-Tank-color-Quiet-Harbor_35847-Edit.jpg?v=1707866923&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Quiet Harbor",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Heather Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
-    "sku": "CARB-YD6014H-QUIETHRBR-24SS-XS",
-    "product_id": "7512313790653"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Off Shoulder Raw Edge Sweatshirt in French Terry"
-    ],
-    "product_name": "Off Shoulder Raw Edge Sweatshirt in French Terry",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6088-QUIETHRBR-24SS-Off-Shoulder-Raw-Edge-Sweatshirt-in-french-terry-color-Quiet-Harbor_35938.jpg?v=1705945370&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Quiet Harbor",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Off Shoulder Raw Edge Sweatshirt from Carbon38 is a very similar style to our Off Shoulder Sweatshirt, but has a raw edge hem instead of a ribbed band. This style has a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline and raw edge hem, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD6088-QUIETHRBR-24SS-XS",
-    "product_id": "7549513007293"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Long Sleeve Off Shoulder Tee"
-    ],
-    "product_name": "Long Sleeve Off Shoulder Tee",
-    "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-HWTHRNRSE-24SS-Long-Sleeve-Off-Shoulder-Tee-color-Hawthorn-Rose_00862.jpg?v=1706832901&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Hawthorn Rose",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top",
-    "sku": "CARB-YD6028-HWTHRNRSE-24SS-XS",
-    "product_id": "7569978556605"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "One Shoulder Convertible Tank in Heather Melt"
-    ],
-    "product_name": "One Shoulder Convertible Tank in Heather Melt",
-    "brand": "CARBON38",
-    "price": "$108.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6014H-PNK-24SS-One-Shoulder-Tank-color-Hawthorn-Rose-Heather_35567.jpg?v=1705447513&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Hawthorn Rose Heather",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Heather Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
-    "sku": "CARB-YD6014H-PNK-24SS-XS",
-    "product_id": "7510332506301"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
-    ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-WHIWHI-Off-Shoulder-Sweatshirt-in-french-terry-color-WHITE_16010.jpg?v=1709658637&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615-WHIWHI-XS",
-    "product_id": "7329507213501"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Long RacerBack Tank"
-    ],
-    "product_name": "Long RacerBack Tank",
-    "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-HONYSCKLE-24SS-Long-RacerBack-Tank-color-Honeysuckle_36764.jpg?v=1705961345&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Honeysuckle",
+    "colour": "Woodrose",
     "sizes": [
         "XS",
         "S",
@@ -682,80 +139,22 @@
         "XL"
     ],
     "description": "No Description",
-    "sku": "CARB-YD335-HONYSCKLE-24SS-XS",
-    "product_id": "7569964204221"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "WESLEY",
-        "Rivington Ribbed Long Sleeve Top"
-    ],
-    "product_name": "Rivington Ribbed Long Sleeve Top",
-    "brand": "WESLEY",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/WSLY-BW202137-BLKBLK-Rivington-Ribbed-Long-Sleeve-Top-color-Black_1638.jpg?v=1708545321&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Long sleeve top",
-    "sku": "WSLY-BW202137-BLKBLK-XS",
-    "product_id": "7606631596221"
+    "sku": "VARL-VAR01541-PNKPINLT-M",
+    "product_id": "7537939284157"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Wide Scoop Bra Tank in Melt"
+        "Off Shoulder Sweatshirt in French Terry"
     ],
-    "product_name": "Wide Scoop Bra Tank in Melt",
-    "brand": "CARBON38",
-    "price": "$98.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD640-WHT-22SM-WIDE-SCOOP-BRA-TANK-color-White_0437.jpg?v=1680737603&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Introducing a new silhouette in our buttery-soft melt fabric, the Wide Scoop Bra Tank. Offering full coverage and a built in shelf bra, the neutral tank is sure to become a go-to staple in your everyday wardrobe.",
-    "sku": "CARB-YD640-WHT-22SM-XS",
-    "product_id": "7329508688061"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Off Shoulder Raw Edge Sweatshirt in French Terry"
-    ],
-    "product_name": "Off Shoulder Raw Edge Sweatshirt in French Terry",
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
     "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6088-PNK-24SS-Off-Shoulder-Raw-Edge-Sweatshirt-color-Honeysuckle_35737.jpg?v=1706202917&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-SLSHY-Off-Shoulder-Sweatshirt-color-Slushy_60184-Edit.jpg?v=1715191971&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Honeysuckle",
+    "colour": "Slushy",
     "sizes": [
         "XS",
         "S",
@@ -768,23 +167,23 @@
         "L",
         "XL"
     ],
-    "description": "The Off Shoulder Raw Edge Sweatshirt from Carbon38 is a very similar style to our Off Shoulder Sweatshirt, but has a raw edge hem instead of a ribbed band. This style has a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline and raw edge hem, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD6088-PNK-24SS-XS",
-    "product_id": "7549520904381"
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back. Made in LA.",
+    "sku": "CARB-YD615-SLSHY-XS",
+    "product_id": "7587908157629"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Long Sleeve Wrap Top in Melt"
+        "Long RacerBack Tank"
     ],
-    "product_name": "Long Sleeve Wrap Top in Melt",
+    "product_name": "Long RacerBack Tank",
     "brand": "CARBON38",
-    "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD658M-BLUE-23HOL-Long-Sleeve-Wrap-Top-in-Melt-color-white_21283.jpg?v=1702085111&width=1000",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-SLSHY-24SM-Long-RacerBack-Tank-color-Slushy_63527-Edit.jpg?v=1714787544&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Slushy",
     "sizes": [
         "XS",
         "S",
@@ -797,23 +196,23 @@
         "L",
         "XL"
     ],
-    "description": "The Long Sleeve Wrap Top is a chic, slightly cropped style that encases you in our buttery soft Melt fabric that you know and love. It features an open ballet back and a front mock-wrap detail. With it's clean lines and luxe feel, this piece will elevate any look.",
-    "sku": "CARB-YD658M-WHT-23HOL-XS",
-    "product_id": "7559511605437"
+    "description": "No Description",
+    "sku": "CARB-YD335-SLSHY-24SM-S",
+    "product_id": "7587693985981"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Puff Sleeve Full Zip Top"
+        "Colorblock Cardigan"
     ],
-    "product_name": "Puff Sleeve Full Zip Top",
+    "product_name": "Colorblock Cardigan",
     "brand": "CARBON38",
-    "price": "$134.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6059-WHT-24SS-Puff-Sleeve-Full-Zip-Top-color-White-Sweet-Lavender_19003.jpg?v=1703039814&width=1000",
+    "price": "$168.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6090-WHT-24SM-Colorblock-Cardigan-color-White-Tomato-Red-Pink-Lemonade_63802-Edit.jpg?v=1717440425&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White/ Sweet Lavender",
+    "colour": "White/ Tomato Red/ Pink Lemonade",
     "sizes": [
         "XS",
         "S",
@@ -826,9 +225,9 @@
         "L",
         "XL"
     ],
-    "description": "85%POLYAMIDE 15%ELASTANCE",
-    "sku": "CARB-YD6059-WHT-24SS-XS",
-    "product_id": "7500959318205"
+    "description": "The Carbon38 Colorblock Cardigan will be your new go to layering piece. Cut and colored perfectly to match back to our Pleated Tennis Dress, this cardigan gives a classic yet elevated look.",
+    "sku": "CARB-YD6090-WHT-24SM-XS",
+    "product_id": "7620515037373"
 },
 {
     "breadcrumbs": [
@@ -892,6 +291,609 @@
     "breadcrumbs": [
         "home",
         "Designers",
+        "CARBON38",
+        "Sleeveless Golf Top"
+    ],
+    "product_name": "Sleeveless Golf Top",
+    "brand": "CARBON38",
+    "price": "$128.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6096-WHT-24SM-Sleeveless-Golf-Top-color-White_0996-Edit.jpg?v=1717445041&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "81% NYLON 19% SPANDEX",
+    "sku": "CARB-YD6096-WHT-24SM-XS",
+    "product_id": "7587279798461"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Collared Cardigan"
+    ],
+    "product_name": "Short Sleeve Collared Cardigan",
+    "brand": "CARBON38",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6097-BLUE-24SM-Short-Sleeve-Collared-Cardigan-color-Navy_0018-Edit.jpg?v=1716318132&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Navy",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Collared Cardigan elevates any look with a plated hem, contrast stitching, ruffle neck, short sleeves, and a full zip. This top pairs perfectly back to our High Rise Scuba Short.",
+    "sku": "CARB-YD6097-BLUE-24SM-XS",
+    "product_id": "7587525656765"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "VARLEY",
+        "Penelope Performance Polo"
+    ],
+    "product_name": "Penelope Performance Polo",
+    "brand": "VARLEY",
+    "price": "$66.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR02071-WHTBLUDRK-Penelope-Performance-Polo-color-White-Blue-Knits_60851-Edit.jpg?v=1716337230&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White / Blue Knits",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "No Description",
+    "sku": "VARL-VAR02071-WHTBLUDRK-XS",
+    "product_id": "7538001150141"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Collared Cardigan"
+    ],
+    "product_name": "Short Sleeve Collared Cardigan",
+    "brand": "CARBON38",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6097-WHT-24SM-Short-Sleeve-Collared-Cardigan-color-White_61269-Edit.jpg?v=1716314216&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Collared Cardigan elevates any look with a plated hem, contrast stitching, short sleeves, and a full zip. This top pairs perfectly back to our High Rise Scuba Short.",
+    "sku": "CARB-YD6097-WHT-24SM-XS",
+    "product_id": "7587521265853"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Slouchy Knit Sweater"
+    ],
+    "product_name": "Slouchy Knit Sweater",
+    "brand": "CARBON38",
+    "price": "$158.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6066-BLUE-24SS-Oversized-Off-Shoulder-Sweater-color-off-white-navy-Stripe_0014-Edit.jpg?v=1715792179&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Off White / Navy Stripe",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Slouchy Knit Sweater is the perfect transitional layering piece. Throw it on over your leggings for an elevated look. This sweater can be styled both off the shoulder or boat neck style.",
+    "sku": "CARB-YD6066S-BLUE-24SS-XS",
+    "product_id": "7509475426493"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long RacerBack Tank"
+    ],
+    "product_name": "Long RacerBack Tank",
+    "brand": "CARBON38",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-SWEETLVNDR-24SS-Long-RacerBack-Tank-color-Sweet-Lavender_1854-Edit.jpg?v=1707772944&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Sweet Lavender",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Carbon38 Long Racer Back Tank in our classic color, White is perfect for everyday wear. Match this back to our Sweet Lavender Takara leggings for a simple and elevated workout fit.",
+    "sku": "CARB-YD335-SWEETLVNDR-24SS-S",
+    "product_id": "7569966956733"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "MISSONI",
+        "Long Sleeve T Shirt"
+    ],
+    "product_name": "Long Sleeve T Shirt",
+    "brand": "MISSONI",
+    "price": "$920.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/MISS-MC22SL00-MULTIMULTI-Long-Sleeve-T-Shirt-color-Red-Blue-Space_1651-Edit.jpg?v=1715989367&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Red / Blue Space",
+    "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "38",
+        "40",
+        "42",
+        "44"
+    ],
+    "description": "No Description",
+    "sku": "MISS-MC22SL00-MULTIMULTI-44",
+    "product_id": "7514228818109"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "NORMA KAMALI",
+        "Super Oversized Boyfriend NK Shirt Bodysuit"
+    ],
+    "product_name": "Super Oversized Boyfriend NK Shirt Bodysuit",
+    "brand": "NORMA KAMALI",
+    "price": "$155.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-ST224BPH183813-BLUEBLUMED-Super-Oversized-Boyfriend-NK-Shirt-Bodysuit-color-Misty-Blue_64664-Edit.jpg?v=1714517615&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Misty Blue",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "PROTECTIVE ADHESIVE STRIP MUST REMAIN IN GARMENT TO BE ELIGIBLE FOR REFUND",
+    "sku": "NORMA-ST224BPH183813-BLUEBLUMED-XS",
+    "product_id": "7585457569981"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "525",
+        "Rachel Sailor Open Stitch Pullover"
+    ],
+    "product_name": "Rachel Sailor Open Stitch Pullover",
+    "brand": "525",
+    "price": "$139.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/525-100104W15-BLUEBLUDRK-Rachel-Sailor-Open-Stitch-Pullover-color-Forever-Blue-Multi_39311-Edit.jpg?v=1707781483&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Forever Blue Multi",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "100% cotton. Turn garment inside out. Machine wash cold water with like colors. Gentle cycle. Tumble dry low. Do not bleach. Cool iron if needed.",
+    "sku": "525-110020594-BLUEBLUDRK-S",
+    "product_id": "7506533810365"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "One Shoulder Convertible Tank in Heather Melt"
+    ],
+    "product_name": "One Shoulder Convertible Tank in Heather Melt",
+    "brand": "CARBON38",
+    "price": "$108.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6014H-QUIETHRBR-24SS-One-Shoulder-Tank-color-Quiet-Harbor_35847-Edit.jpg?v=1707866923&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Quiet Harbor",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Heather Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
+    "sku": "CARB-YD6014H-QUIETHRBR-24SS-XS",
+    "product_id": "7512313790653"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Pocket Tee"
+    ],
+    "product_name": "Short Sleeve Pocket Tee",
+    "brand": "CARBON38",
+    "price": "$78.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD638A-QUIETHRBR-24SS-Short-Sleeve-Pocket-Tee-color-Quiet-Harbor_44005-Edit.jpg?v=1707846894&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Quiet Harbor",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Our new Short Sleeve Pocket Tee is the perfect everyday essential. Featuring a pocket in the front, this crewneck t-shirt hits at just the right length to pair with your favorite leggings.",
+    "sku": "CARB-YD638A-QUIETHRBR-24SS-XS",
+    "product_id": "7580087976125"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Off Shoulder Raw Edge Sweatshirt in French Terry"
+    ],
+    "product_name": "Off Shoulder Raw Edge Sweatshirt in French Terry",
+    "brand": "CARBON38",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6088-QUIETHRBR-24SS-Off-Shoulder-Raw-Edge-Sweatshirt-in-french-terry-color-Quiet-Harbor_35938.jpg?v=1705945370&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Quiet Harbor",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Off Shoulder Raw Edge Sweatshirt from Carbon38 is a very similar style to our Off Shoulder Sweatshirt, but has a raw edge hem instead of a ribbed band. This style has a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline and raw edge hem, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD6088-QUIETHRBR-24SS-XS",
+    "product_id": "7549513007293"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "One Shoulder Convertible Tank in Heather Melt"
+    ],
+    "product_name": "One Shoulder Convertible Tank in Heather Melt",
+    "brand": "CARBON38",
+    "price": "$108.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6014H-PNK-24SS-One-Shoulder-Tank-color-Hawthorn-Rose-Heather_35567.jpg?v=1705447513&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Hawthorn Rose Heather",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Heather Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
+    "sku": "CARB-YD6014H-PNK-24SS-XS",
+    "product_id": "7510332506301"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long Sleeve Off Shoulder Tee"
+    ],
+    "product_name": "Long Sleeve Off Shoulder Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-HWTHRNRSE-24SS-Long-Sleeve-Off-Shoulder-Tee-color-Hawthorn-Rose_00862.jpg?v=1706832901&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Hawthorn Rose",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top",
+    "sku": "CARB-YD6028-HWTHRNRSE-24SS-XS",
+    "product_id": "7569978556605"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Off Shoulder Sweatshirt in French Terry"
+    ],
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
+    "brand": "CARBON38",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-WHIWHI-Off-Shoulder-Sweatshirt-in-french-terry-color-WHITE_16010.jpg?v=1709658637&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD615-WHIWHI-XS",
+    "product_id": "7329507213501"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Off Shoulder Raw Edge Sweatshirt in French Terry"
+    ],
+    "product_name": "Off Shoulder Raw Edge Sweatshirt in French Terry",
+    "brand": "CARBON38",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6088-PNK-24SS-Off-Shoulder-Raw-Edge-Sweatshirt-color-Honeysuckle_35737.jpg?v=1706202917&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Honeysuckle",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Off Shoulder Raw Edge Sweatshirt from Carbon38 is a very similar style to our Off Shoulder Sweatshirt, but has a raw edge hem instead of a ribbed band. This style has a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline and raw edge hem, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD6088-PNK-24SS-XS",
+    "product_id": "7549520904381"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long RacerBack Tank"
+    ],
+    "product_name": "Long RacerBack Tank",
+    "brand": "CARBON38",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-HONYSCKLE-24SS-Long-RacerBack-Tank-color-Honeysuckle_36764.jpg?v=1705961345&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Honeysuckle",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "No Description",
+    "sku": "CARB-YD335-HONYSCKLE-24SS-XS",
+    "product_id": "7569964204221"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Puff Sleeve Full Zip Top"
+    ],
+    "product_name": "Puff Sleeve Full Zip Top",
+    "brand": "CARBON38",
+    "price": "$134.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6059-WHT-24SS-Puff-Sleeve-Full-Zip-Top-color-White-Sweet-Lavender_19003.jpg?v=1703039814&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White/ Sweet Lavender",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "85%POLYAMIDE 15%ELASTANCE",
+    "sku": "CARB-YD6059-WHT-24SS-XS",
+    "product_id": "7500959318205"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long Sleeve Wrap Top in Melt"
+    ],
+    "product_name": "Long Sleeve Wrap Top in Melt",
+    "brand": "CARBON38",
+    "price": "$128.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD658M-BLUE-23HOL-Long-Sleeve-Wrap-Top-in-Melt-color-white_21283.jpg?v=1702085111&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Long Sleeve Wrap Top is a chic, slightly cropped style that encases you in our buttery soft Melt fabric that you know and love. It features an open ballet back and a front mock-wrap detail. With it's clean lines and luxe feel, this piece will elevate any look.",
+    "sku": "CARB-YD658M-WHT-23HOL-XS",
+    "product_id": "7559511605437"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Wide Scoop Bra Tank in Melt"
+    ],
+    "product_name": "Wide Scoop Bra Tank in Melt",
+    "brand": "CARBON38",
+    "price": "$98.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD640-WHT-22SM-WIDE-SCOOP-BRA-TANK-color-White_0437.jpg?v=1680737603&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Introducing a new silhouette in our buttery-soft melt fabric, the Wide Scoop Bra Tank. Offering full coverage and a built in shelf bra, the neutral tank is sure to become a go-to staple in your everyday wardrobe.",
+    "sku": "CARB-YD640-WHT-22SM-XS",
+    "product_id": "7329508688061"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "WESLEY",
+        "Rivington Ribbed Long Sleeve Top"
+    ],
+    "product_name": "Rivington Ribbed Long Sleeve Top",
+    "brand": "WESLEY",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/WSLY-BW202137-BLKBLK-Rivington-Ribbed-Long-Sleeve-Top-color-Black_1638.jpg?v=1708545321&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Long sleeve top",
+    "sku": "WSLY-BW202137-BLKBLK-XS",
+    "product_id": "7606631596221"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
         "BANDIER",
         "Center Stage Tank"
     ],
@@ -916,6 +918,35 @@
     "description": "Performance tank",
     "sku": "BNDR-BND10188-BLKBLK-XS",
     "product_id": "7606608363709"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Strappy Tank in Melt"
+    ],
+    "product_name": "Strappy Tank in Melt",
+    "brand": "CARBON38",
+    "price": "$108.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD338-BLK-23FAL-Strappy-Tank-in-Melt-color-Black_1075.jpg?v=1689019403&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "81% Nylon 19% Spandex",
+    "sku": "CARB-YD338-BLK-23FAL-XS",
+    "product_id": "7485223469245"
 },
 {
     "breadcrumbs": [
@@ -974,35 +1005,6 @@
     "description": "Introducing a new silhouette in our buttery-soft Melt fabric, the Wide Scoop Bra Tank. Offering full coverage and a built in shelf bra, this tank is sure to become a go-to staple in your everyday wardrobe.",
     "sku": "CARB-YD640-BLK-22HOL-XS",
     "product_id": "7344676536509"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Strappy Tank in Melt"
-    ],
-    "product_name": "Strappy Tank in Melt",
-    "brand": "CARBON38",
-    "price": "$108.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD338-BLK-23FAL-Strappy-Tank-in-Melt-color-Black_1075.jpg?v=1689019403&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "81% Nylon 19% Spandex",
-    "sku": "CARB-YD338-BLK-23FAL-XS",
-    "product_id": "7485223469245"
 },
 {
     "breadcrumbs": [
@@ -1096,6 +1098,35 @@
         "home",
         "Designers",
         "CARBON38",
+        "Short Sleeve Off Shoulder Sweatshirt in French Terry"
+    ],
+    "product_name": "Short Sleeve Off Shoulder Sweatshirt in French Terry",
+    "brand": "CARBON38",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD694-WHT-23SM-Short-Sleeve-Off-Shoulder-Sweatshirt-in-french-terry-color-White_0653.jpg?v=1685648425&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Our best-selling Off Shoulder Sweatshirt got an update! The Short Sleeve Off Shoulder Sweatshirt features all the same amazing qualities such as a roomy fit, a slouchy silhouette, and raw-edged asymmetrical neckline but this time we made it",
+    "sku": "CARB-YD694-WHT-23SM-XS",
+    "product_id": "7466961567933"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
         "Short Sleeve Pocket Tee"
     ],
     "product_name": "Short Sleeve Pocket Tee",
@@ -1125,14 +1156,14 @@
         "home",
         "Designers",
         "CARBON38",
-        "Short Sleeve Off Shoulder Sweatshirt in French Terry"
+        "Front Twist Tank"
     ],
-    "product_name": "Short Sleeve Off Shoulder Sweatshirt in French Terry",
+    "product_name": "Front Twist Tank",
     "brand": "CARBON38",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD694-WHT-23SM-Short-Sleeve-Off-Shoulder-Sweatshirt-in-french-terry-color-White_0653.jpg?v=1685648425&width=1000",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6053-CARIB-24SS-Front-Twist-Tank-color-Caribou_43931-Edit.jpg?v=1707846142&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Caribou",
     "sizes": [
         "XS",
         "S",
@@ -1145,9 +1176,42 @@
         "L",
         "XL"
     ],
-    "description": "Our best-selling Off Shoulder Sweatshirt got an update! The Short Sleeve Off Shoulder Sweatshirt features all the same amazing qualities such as a roomy fit, a slouchy silhouette, and raw-edged asymmetrical neckline but this time we made it",
-    "sku": "CARB-YD694-WHT-23SM-XS",
-    "product_id": "7466961567933"
+    "description": "The Carbon38 essential Front Twist Tank is the perfect versatile tank. Dress it up with our Mesh Pleated Skirt. Pair it with any of our leggings in Melt or Takara for a great workout set.",
+    "sku": "CARB-YD6053-CARIB-24SS-XS",
+    "product_id": "7580089548989"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Ribbed Tank"
+    ],
+    "product_name": "Ribbed Tank",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-W235-WHIWHI-ribbed-tank-1-Color-WHITE_15247.jpg?v=1700613811&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "WHITE",
+    "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "description": "85 NYLON, 15 SPANDEX.",
+    "sku": "CARB-W235-WHIWHI-XXS",
+    "product_id": "7329506689213"
 },
 {
     "breadcrumbs": [
@@ -1177,64 +1241,6 @@
     "description": "Everyday sweatshirt",
     "sku": "BNDR-BND10227-WHTWHI-XS",
     "product_id": "7606609445053"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Ribbed Tank"
-    ],
-    "product_name": "Ribbed Tank",
-    "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-W235-CARIB-23HOL-RibbedTank-color-Caribou_25744-Edit.jpg?v=1709322391&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Caribou",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "he Ribbed Tank from Carbon38 is a body-hugging crop top with a scoop neckline and back. A soon-to-be staple in both your workout ensemble and everyday wardrobe, this soft and textured top features a breathable shelf bra for bonus support.",
-    "sku": "CARB-W235-CARIB-23HOL-XS",
-    "product_id": "7494128402621"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Front Twist Tank"
-    ],
-    "product_name": "Front Twist Tank",
-    "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6053-CARIB-24SS-Front-Twist-Tank-color-Caribou_43931-Edit.jpg?v=1707846142&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Caribou",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Carbon38 essential Front Twist Tank is the perfect versatile tank. Dress it up with our Mesh Pleated Skirt. Pair it with any of our leggings in Melt or Takara for a great workout set.",
-    "sku": "CARB-YD6053-CARIB-24SS-XS",
-    "product_id": "7580089548989"
 },
 {
     "breadcrumbs": [
@@ -1275,28 +1281,24 @@
     "product_name": "Ribbed Tank",
     "brand": "CARBON38",
     "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-W235-WHIWHI-ribbed-tank-1-Color-WHITE_15247.jpg?v=1700613811&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-W235-CARIB-23HOL-RibbedTank-color-Caribou_25744-Edit.jpg?v=1709322391&width=1000",
     "reviews": "0 Reviews",
-    "colour": "WHITE",
+    "colour": "Caribou",
     "sizes": [
-        "XXS",
         "XS",
         "S",
         "M",
         "L",
         "XL",
-        "XXL",
-        "XXS",
         "XS",
         "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
     ],
-    "description": "85 NYLON, 15 SPANDEX.",
-    "sku": "CARB-W235-WHIWHI-XXS",
-    "product_id": "7329506689213"
+    "description": "he Ribbed Tank from Carbon38 is a body-hugging crop top with a scoop neckline and back. A soon-to-be staple in both your workout ensemble and everyday wardrobe, this soft and textured top features a breathable shelf bra for bonus support.",
+    "sku": "CARB-W235-CARIB-23HOL-XS",
+    "product_id": "7494128402621"
 },
 {
     "breadcrumbs": [
@@ -1390,128 +1392,12 @@
         "home",
         "Designers",
         "CARBON38",
-        "Wrap Sweater"
+        "High Neck Laser Cut Tank in Diamond Compression"
     ],
-    "product_name": "Wrap Sweater",
-    "brand": "CARBON38",
-    "price": "$134.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6036-BLK-23HOL-Wrap-Sweater-color-Black_4608.jpg?v=1695852705&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Long Sleeve Wrap Sweater is an elegant style that encases you in our soft, knit sweater yarn. It features a wrap ballet back and front. With its clean lines and luxe feel, this piece will elevate any look.",
-    "sku": "CARB-YD6036-BLK-23HOL-XL",
-    "product_id": "7487108251837"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "MISSONI",
-        "Crewneck Sweatshirt"
-    ],
-    "product_name": "Crewneck Sweatshirt",
-    "brand": "MISSONI",
-    "price": "$980.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/MISS-SS24SW05-MULTIMULTI-Crewneck-Sweatshirt-color-Rainbow-Lilla-arancio-lime_3283.jpg?v=1704825394&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Rainbow Lilla/Arancio/Lime",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "XS",
-        "S",
-        "M"
-    ],
-    "description": "This Missoni crew-neck sweatshirt features a subtle lurex yarn and an embroidered Missoni Sport logo. The garment is made of knitwear with a Caperdoni pattern and finished with plain trim. The embroidered logo completes the piece. Made in Italy.",
-    "sku": "MISS-SS24SW05-MULTIMULTI-XS",
-    "product_id": "7485027025085"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Short Sleeve Pocket Tee"
-    ],
-    "product_name": "Short Sleeve Pocket Tee",
-    "brand": "CARBON38",
-    "price": "$78.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD638A-BLK-23SS-Short-Sleeve-Pocket-Tee-color-Black_0081.jpg?v=1682452550&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "50% Cotton 50% Modal. MACHINE WASH COLD W/ LIKE COLORS. DO NOT BLEACH. TUMBLE DRY LOW.",
-    "sku": "CARB-YD638A-BLK-23SS-XS",
-    "product_id": "7441285906621"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "BEYOND YOGA",
-        "Spacedye Slim Racerback Cropped Tank"
-    ],
-    "product_name": "Spacedye Slim Racerback Cropped Tank",
-    "brand": "BEYOND YOGA",
-    "price": "$58.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/BEYO-SD4382-BLKBLK-SPACEDYE-SLIM-RACERBACK-CROPPED-TANK-color-DARKEST-NIGHT_0099.jpg?v=1684269220&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "DARKEST NIGHT",
-    "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL",
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-    ],
-    "description": "Lay flat to dry, Machine wash cold delicate cycle, Tumble dry low, Wash with like colors",
-    "sku": "BEYO-SD4382-BLKBLK-XL",
-    "product_id": "7329493811389"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Mock Neck Long Sleeve in Melt"
-    ],
-    "product_name": "Mock Neck Long Sleeve in Melt",
+    "product_name": "High Neck Laser Cut Tank in Diamond Compression",
     "brand": "CARBON38",
     "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6035-BLK-23HOL-Mock-Neck-Long-Sleeve-color-Black_4528.jpg?v=1695862414&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD347-BLK-24SS-High-Neck-Laser-Cut-Tank-color-Black_38769.jpg?v=1706654170&width=1000",
     "reviews": "0 Reviews",
     "colour": "Black",
     "sizes": [
@@ -1526,52 +1412,23 @@
         "L",
         "XL"
     ],
-    "description": "MACHINE WASH COLD W/ LIKE COLORS // DO NOT BLEACH// HANG DRY // DO NOT IRON",
-    "sku": "CARB-YD6035-BLK-23HOL-XS",
-    "product_id": "7487208194237"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "NORMA KAMALI",
-        "Shoulder Pad Long Sleeve Crew Top"
-    ],
-    "product_name": "Shoulder Pad Long Sleeve Crew Top",
-    "brand": "NORMA KAMALI",
-    "price": "$115.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-KK1206PL046001-BLKBLK-Shoulder-Pad-Long-Sleeve-Crew-Top-color-Black_64780-Edit.jpg?v=1715968793&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "4-WAY STRETCH POLY LYCRA.",
-    "sku": "NORMA-KK1206PL046001-BLKBLK-S",
-    "product_id": "7695946645693"
+    "description": "72% NYLON 28% SPANDEX",
+    "sku": "CARB-YD347-BLK-24SS-XS",
+    "product_id": "7524679614653"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Zip Long Sleeve Run Top"
+        "Off Shoulder Sweatshirt in French Terry"
     ],
-    "product_name": "Zip Long Sleeve Run Top",
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6017H-GREYDRK-23FAL-Zip-Long-Sleeve-Run-Top-color-Charcoal-heather_47083.jpg?v=1692644562&width=1000",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-NVY-22HOL-Off-Shoulder-Sweatshirt-in-french-terry-color-NAVY-BLAZER_15965.jpg?v=1700258206&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Charcoal Heather",
+    "colour": "Navy Blazer",
     "sizes": [
         "XS",
         "S",
@@ -1584,23 +1441,23 @@
         "L",
         "XL"
     ],
-    "description": "Machine wash cold with like colors/ do not bleach / hang dry / do not iron / do not dry clean.",
-    "sku": "CARB-YD6017H-GREYDRK-23FAL-XS",
-    "product_id": "7473221632189"
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD615-NVY-22HOL-XS",
+    "product_id": "7381797437629"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Long Sleeve Off Shoulder Tee"
+        "Off Shoulder Sweatshirt in French Terry"
     ],
-    "product_name": "Long Sleeve Off Shoulder Tee",
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-BLK-23FAL-Long-Sleeve-Off-Shoulder-Tee-color-Black_42663.jpg?v=1692658977&width=1000",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-BLK-22HOL-Off-Shoulder-Sweatshirt-in-french-terry-color-BLACK_16117.jpg?v=1700257976&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Black",
+    "colour": "BLACK",
     "sizes": [
         "XS",
         "S",
@@ -1613,23 +1470,23 @@
         "L",
         "XL"
     ],
-    "description": "50% Cotton 50% Modal",
-    "sku": "CARB-YD6028-BLK-23FAL-XS",
-    "product_id": "7480958517437"
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD615-BLK-22HOL-XS",
+    "product_id": "7355153744061"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Foil Half Zip Top in Melt"
+        "Chambray Denim Shirt"
     ],
-    "product_name": "Foil Half Zip Top in Melt",
+    "product_name": "Chambray Denim Shirt",
     "brand": "CARBON38",
-    "price": "$158.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6057-GREY-23HOL-Foil-Half-Zip-top-in-Melt-color-Dark-Heather-Grey-with-Gunmetal-foil_17102.jpg?v=1700511815&width=1000",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6087-LTCHMBRY-24SM-Chambray-Denim-Shirt-color-Light-Wash_0089-Edit.jpg?v=1718901897&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Dark Heather Grey with Gunmetal Foil",
+    "colour": "Light Wash",
     "sizes": [
         "XS",
         "S",
@@ -1642,164 +1499,23 @@
         "L",
         "XL"
     ],
-    "description": "Carbon38's Foil Half Zip Top in Melt is the perfect addition to your winter workout. This will keep you warm and ready for any workout. With the dark heather grey colorway with added gunmetal foil for an extra flare. Pair back with our",
-    "sku": "CARB-YD6057-GREY-23HOL-XS",
-    "product_id": "7491504898237"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "VARLEY",
-        "Portland High Neck Midlayer"
-    ],
-    "product_name": "Portland High Neck Midlayer",
-    "brand": "VARLEY",
-    "price": "$100.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01611-GREYGRYMED-PORTLAND-HIGH-NECK-MIDLAYER-color-GREY_5521.jpg?v=1691446863&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Grey",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Made in the Varley super soft Restore Jersey, the Portland midlayer is inspired by our bestselling Betsy silhouette. With a relaxed fit, roll neck, thumbholes, and external hem drawcord, it offers a versatile look that can be worn loose or cinched over pants.",
-    "sku": "VARL-VAR01611-GREYGRYMED-XL",
-    "product_id": "7460405280957"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "Phoebe Harrison",
-        "Viviana Sweater"
-    ],
-    "product_name": "Viviana Sweater",
-    "brand": "Phoebe Harrison",
-    "price": "$430.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/PHOE-W306-IVRYOFFWHI-VIVIANA-SWEATER-color-CREAMY-WHITE_45066.jpg?v=1693002329&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Creamy White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "is perfect for everyday. Slouchy shoulders and side splits make it feel relaxed and comfortable. Wear it with tailored pants or its matching Lexington pants. This sweater features a elevated rhinestone detailing on the sleeves, a relaxed fit, and 100% cashmere.",
-    "sku": "PHOE-W306-IVRYOFFWHI-M",
-    "product_id": "7474319425725"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "525",
-        "Eva Cropped Crew Neck Cardi"
-    ],
-    "product_name": "Eva Cropped Crew Neck Cardi",
-    "brand": "525",
-    "price": "$119.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/525-100104W14-PNKPINNEO-Eva-Cropped-Crew-Neck-Cardi-color-Shocking-Pink_0144-Edit.jpg?v=1710350539&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Shocking Pink",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Effortless style meets comfort in the 525 Cropped Crew Neck Cardigan. Perfect for layering, it adds a chic touch to any outfit.",
-    "sku": "525-100104W14-PNKPINNEO-XS",
-    "product_id": "7506511298749"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "KERRI ROSENTHAL",
-        "Cabin Sweater Chevron"
-    ],
-    "product_name": "Cabin Sweater Chevron",
-    "brand": "KERRI ROSENTHAL",
-    "price": "$466.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/KRRNL-KR23-3267-IVRYMULTI-Cabin-Sweater-Chevron-color-Milky-Way_9420.jpg?v=1698442811&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Milky Way",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "100% Cashmere. Dry Clean only",
-    "sku": "KRRNL-KR23-3267-IVRYMULTI-M",
-    "product_id": "7484753772733"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "VARLEY",
-        "Mentone Knit"
-    ],
-    "product_name": "Mentone Knit",
-    "brand": "VARLEY",
-    "price": "$126.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR00815-PNKPINLT-MENTONE-KNIT-color-PALE-MAUVE_45542.jpg?v=1695161697&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Pale Mauve",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Crafted in Varley's luxuriously soft cotton knit, this half-zip pullover is cut to a boxy, cropped silhouette. Enhanced with dropped shoulders and an oversized collar, it takes you from work-to-weekend, seamlessly.",
-    "sku": "VARL-VAR00815-PNKPINLT-XL",
-    "product_id": "7460794466493"
+    "description": "78% Tencel 10%Cotton 9%Polyester 3%Spandex",
+    "sku": "CARB-YD6087-LTCHMBRY-24SM-XS",
+    "product_id": "7564895715517"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Long Sleeve Off Shoulder Tee"
+        "Chambray Denim Shirt"
     ],
-    "product_name": "Long Sleeve Off Shoulder Tee",
+    "product_name": "Chambray Denim Shirt",
     "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-WHT-23FAL-Long-Sleeve-Off-Shoulder-Tee-color-White_2.jpg?v=1694191404&width=1000",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6087-DRKCHMBRY-24SM-Chambray-Denim-Shirt-color-Medium-Wash_64212-Edit.jpg?v=1714523159&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Medium Wash",
     "sizes": [
         "XS",
         "S",
@@ -1812,23 +1528,23 @@
         "L",
         "XL"
     ],
-    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top",
-    "sku": "CARB-YD6028-WHT-23FAL-XS",
-    "product_id": "7480945836221"
+    "description": "78% Tencel 10%Cotton 9%Polyester 3%Spandex",
+    "sku": "CARB-YD6087-MEDCHMBRY-24SM-XS",
+    "product_id": "7559772799165"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Long RacerBack Tank"
+        "Strappy Tank in Melt"
     ],
-    "product_name": "Long RacerBack Tank",
+    "product_name": "Strappy Tank in Melt",
     "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-WHT-23SS-Long-RacerBack-Tank-color-white_14201.jpg?v=1710451259&width=1000",
+    "price": "$108.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD338-BLUE-23FAL-Strappy-Tank-in-Melt-color-Navy-Blazer_3169.jpg?v=1689018986&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Navy Blazer",
     "sizes": [
         "XS",
         "S",
@@ -1841,152 +1557,9 @@
         "L",
         "XL"
     ],
-    "description": "The Carbon38 Long RacerBack Tank in our classic color, White is perfect for everyday wear. It is the perfect bum-covering length. Match this back to our Black Takara leggings for a simple and elevated workout fit.",
-    "sku": "CARB-YD335-WHT-23SS-XS",
-    "product_id": "7441280073917"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "FRENCH TERRY HALF ZIP"
-    ],
-    "product_name": "FRENCH TERRY HALF ZIP",
-    "brand": "CARBON38",
-    "price": "$109.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-CRB22044-BLUE-23SS-FRENCH-TERRY-HALF-ZIP-color-CLEARLY-AQUA_4443.jpg?v=1677801922&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "CLEARLY AQUA",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Our Half Zip is a soft, sporty and comfortable layering piece perfect to wear year-round. This features our best-selling fabric, French Terry. Pair it back to our Clearly Aqua in Melt for a monochromatic look.",
-    "sku": "CARB-CRB22044-BLUE-23SS-XS",
-    "product_id": "7411987153085"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Sleeveless Wrap Top"
-    ],
-    "product_name": "Sleeveless Wrap Top",
-    "brand": "CARBON38",
-    "price": "$30.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD617-BRWN-22SM-Sleeveless_Wrap_Top-color-Bruno_9011_bb3995f6-67d5-4453-b6d3-afc7cec9f228.jpg?v=1666901629&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "BRUNO",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Our own Sleeveless Wrap Top features a flattering open neckline with a mock wrap detail and is made in our exclusive soft, brushed rib knit fabric. Perfect for all weather, this is a versatile piece that you’ll reach for season after season.",
-    "sku": "CARB-YD617-BRWN-22SM-XS",
-    "product_id": "7329507803325"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "EMBROIDERED FRENCH TERRY CREW SWEATSHIRT"
-    ],
-    "product_name": "EMBROIDERED FRENCH TERRY CREW SWEATSHIRT",
-    "brand": "CARBON38",
-    "price": "$83.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-CRB22060-BLUE-23SS-EMBROIDERED-FRENCH-TERRY-CREW-SWEATSHIRT-color-NAVY-LOBSTER_19383.jpg?v=1674696503&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "NAVY/ LOBSTER",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "This exclusive Embroidered Crew Sweatshirt features our custom embroidered Lobster in the right upper corner. This is a perfect nautical addition to your closet.",
-    "sku": "CARB-CRB22060-BLUE-23SS-XS",
-    "product_id": "7411969786045"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "RHINESTONE OVERSIZED BUTTON UP SHIRT"
-    ],
-    "product_name": "RHINESTONE OVERSIZED BUTTON UP SHIRT",
-    "brand": "CARBON38",
-    "price": "$126.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD614SP-WHT-22HOL-RHINESTONE-OVERSIZED-BUTTON-UP-SHIRT-color-White-w-Silver-Rhinestones1.jpg?v=1670614902&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White w/ Silver Rhinestones",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "The Oversized Button Up from Carbon38 is an easy-fitting collared top with notches at the side seams and a shirttail hem. Endlessly versatile and layerable, this classic blouse is bound to get plenty of circulation in your wardrobe for years to come.",
-    "sku": "CARB-YD614SP-WHT-22HOL-XS",
-    "product_id": "7369190867133"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "STRIPED CROPPED SWEATER VEST"
-    ],
-    "product_name": "STRIPED CROPPED SWEATER VEST",
-    "brand": "CARBON38",
-    "price": "$117.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD6005B-IVRY-23SS-STRIPED-CROPPED-SWEATER-VEST-color-IVORY-W-NAVY_9082.jpg?v=1674519356&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "IVORY W/ NAVY",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "HAND WASH COLD  / DO NOT BLEACH / RESHAPE & LAY FLAT TO DRY, DO NOT TUMBLE DRY / IRON ON LOWEST SETTING / DRY CLEAN RECOMMENDED",
-    "sku": "CARB-YD6005B-IVRY-23SS-L",
-    "product_id": "7417481691325"
+    "description": "81% Nylon 19% Spandex",
+    "sku": "CARB-YD338-BLUE-23FAL-XS",
+    "product_id": "7485225566397"
 },
 {
     "breadcrumbs": [
@@ -2022,6 +1595,64 @@
         "home",
         "Designers",
         "CARBON38",
+        "FRENCH TERRY HALF ZIP"
+    ],
+    "product_name": "FRENCH TERRY HALF ZIP",
+    "brand": "CARBON38",
+    "price": "$109.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-CRB22044-BLUE-23SS-FRENCH-TERRY-HALF-ZIP-color-CLEARLY-AQUA_4443.jpg?v=1677801922&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "CLEARLY AQUA",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Our Half Zip is a soft, sporty and comfortable layering piece perfect to wear year-round. This features our best-selling fabric, French Terry. Pair it back to our Clearly Aqua in Melt for a monochromatic look.",
+    "sku": "CARB-CRB22044-BLUE-23SS-XS",
+    "product_id": "7411987153085"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "EMBROIDERED FRENCH TERRY CREW SWEATSHIRT"
+    ],
+    "product_name": "EMBROIDERED FRENCH TERRY CREW SWEATSHIRT",
+    "brand": "CARBON38",
+    "price": "$83.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-CRB22060-BLUE-23SS-EMBROIDERED-FRENCH-TERRY-CREW-SWEATSHIRT-color-NAVY-LOBSTER_19383.jpg?v=1674696503&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "NAVY/ LOBSTER",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "This exclusive Embroidered Crew Sweatshirt features our custom embroidered Lobster in the right upper corner. This is a perfect nautical addition to your closet.",
+    "sku": "CARB-CRB22060-BLUE-23SS-XS",
+    "product_id": "7411969786045"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
         "BRETON STRIPE FRENCH TERRY 1/2 ZIP"
     ],
     "product_name": "BRETON STRIPE FRENCH TERRY 1/2 ZIP",
@@ -2051,43 +1682,41 @@
         "home",
         "Designers",
         "CARBON38",
-        "Short Sleeve Pocket Tee"
+        "RHINESTONE OVERSIZED BUTTON UP SHIRT"
     ],
-    "product_name": "Short Sleeve Pocket Tee",
+    "product_name": "RHINESTONE OVERSIZED BUTTON UP SHIRT",
     "brand": "CARBON38",
-    "price": "$66.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD638A-RSCLD-Short-Sleeve-Pocket-Tee-color-Rose-Cloud_0034.jpg?v=1682454349&width=1000",
+    "price": "$126.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD614SP-WHT-22HOL-RHINESTONE-OVERSIZED-BUTTON-UP-SHIRT-color-White-w-Silver-Rhinestones1.jpg?v=1670614902&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Rose Cloud",
+    "colour": "White w/ Silver Rhinestones",
     "sizes": [
         "XS",
         "S",
         "M",
         "L",
-        "XL",
         "XS",
         "S",
         "M",
-        "L",
-        "XL"
+        "L"
     ],
-    "description": "Our new Short Sleeve Pocket Tee is the perfect everyday essential. Featuring a pocket in the front, this crewneck t-shirt hits at just the right length to pair with your favorite leggings.",
-    "sku": "CARB-YD638A-RSCLD-XS",
-    "product_id": "7456926564541"
+    "description": "The Oversized Button Up from Carbon38 is an easy-fitting collared top with notches at the side seams and a shirttail hem. Endlessly versatile and layerable, this classic blouse is bound to get plenty of circulation in your wardrobe for years to come.",
+    "sku": "CARB-YD614SP-WHT-22HOL-XS",
+    "product_id": "7369190867133"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Long RacerBack Tank"
+        "Sleeveless Wrap Top"
     ],
-    "product_name": "Long RacerBack Tank",
+    "product_name": "Sleeveless Wrap Top",
     "brand": "CARBON38",
-    "price": "$58.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-RED-23HOL-Long-RacerBack-Tank-color-Haute-Red_3656.jpg?v=1698710307&width=1000",
+    "price": "$30.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD617-BRWN-22SM-Sleeveless_Wrap_Top-color-Bruno_9011_bb3995f6-67d5-4453-b6d3-afc7cec9f228.jpg?v=1666901629&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Haute Red",
+    "colour": "BRUNO",
     "sizes": [
         "XS",
         "S",
@@ -2100,9 +1729,38 @@
         "L",
         "XL"
     ],
-    "description": "The Carbon38 Long RacerBack Tank in our exclusive color, Haute Red is perfect for everyday wear. Match this back to our Haute Red Takara for a monochromatic look or mix and match with our other leggings.",
-    "sku": "CARB-YD335-RED-23HOL-XL",
-    "product_id": "7505417535677"
+    "description": "Our own Sleeveless Wrap Top features a flattering open neckline with a mock wrap detail and is made in our exclusive soft, brushed rib knit fabric. Perfect for all weather, this is a versatile piece that you’ll reach for season after season.",
+    "sku": "CARB-YD617-BRWN-22SM-XS",
+    "product_id": "7329507803325"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "STRIPED CROPPED SWEATER VEST"
+    ],
+    "product_name": "STRIPED CROPPED SWEATER VEST",
+    "brand": "CARBON38",
+    "price": "$117.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-YD6005B-IVRY-23SS-STRIPED-CROPPED-SWEATER-VEST-color-IVORY-W-NAVY_9082.jpg?v=1674519356&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "IVORY W/ NAVY",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "HAND WASH COLD  / DO NOT BLEACH / RESHAPE & LAY FLAT TO DRY, DO NOT TUMBLE DRY / IRON ON LOWEST SETTING / DRY CLEAN RECOMMENDED",
+    "sku": "CARB-YD6005B-IVRY-23SS-L",
+    "product_id": "7417481691325"
 },
 {
     "breadcrumbs": [
@@ -2142,14 +1800,14 @@
         "home",
         "Designers",
         "CARBON38",
-        "Fleece Back Half Zip Top"
+        "Long RacerBack Tank"
     ],
-    "product_name": "Fleece Back Half Zip Top",
+    "product_name": "Long RacerBack Tank",
     "brand": "CARBON38",
-    "price": "$126.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6032-BLUE-23HOL-Fleece-Back-Half-Zip-Top-color-Navy-Blue-Atoll_5020.jpg?v=1697749148&width=1000",
+    "price": "$58.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-RED-23HOL-Long-RacerBack-Tank-color-Haute-Red_3656.jpg?v=1698710307&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Navy / Blue Atoll",
+    "colour": "Haute Red",
     "sizes": [
         "XS",
         "S",
@@ -2162,9 +1820,9 @@
         "L",
         "XL"
     ],
-    "description": "85%POLYAMIDE 15%ELASTANCE",
-    "sku": "CARB-YD6032-BLUE-23HOL-XS",
-    "product_id": "7486595104957"
+    "description": "The Carbon38 Long RacerBack Tank in our exclusive color, Haute Red is perfect for everyday wear. Match this back to our Haute Red Takara for a monochromatic look or mix and match with our other leggings.",
+    "sku": "CARB-YD335-RED-23HOL-XL",
+    "product_id": "7505417535677"
 },
 {
     "breadcrumbs": [
@@ -2228,6 +1886,91 @@
     "breadcrumbs": [
         "home",
         "Designers",
+        "CARBON38",
+        "Fleece Back Half Zip Top"
+    ],
+    "product_name": "Fleece Back Half Zip Top",
+    "brand": "CARBON38",
+    "price": "$126.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6032-BLUE-23HOL-Fleece-Back-Half-Zip-Top-color-Navy-Blue-Atoll_5020.jpg?v=1697749148&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Navy / Blue Atoll",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "85%POLYAMIDE 15%ELASTANCE",
+    "sku": "CARB-YD6032-BLUE-23HOL-XS",
+    "product_id": "7486595104957"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Pocket Tee"
+    ],
+    "product_name": "Short Sleeve Pocket Tee",
+    "brand": "CARBON38",
+    "price": "$66.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD638A-RSCLD-Short-Sleeve-Pocket-Tee-color-Rose-Cloud_0034.jpg?v=1682454349&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Rose Cloud",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Our new Short Sleeve Pocket Tee is the perfect everyday essential. Featuring a pocket in the front, this crewneck t-shirt hits at just the right length to pair with your favorite leggings.",
+    "sku": "CARB-YD638A-RSCLD-XS",
+    "product_id": "7456926564541"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "SHOREDITCH SKI CLUB",
+        "Kamila Base Layer"
+    ],
+    "product_name": "Kamila Base Layer",
+    "brand": "SHOREDITCH SKI CLUB",
+    "price": "$119.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/SHOR-SSCJ002D-GREYGRYLT-Kamila-Base-Layer-color-Light-Grey_21379.jpg?v=1704485757&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Light Grey",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "",
+    "sku": "SHOR-SSCJ002D-GREYGRYLT-S",
+    "product_id": "7490811003069"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
         "VARLEY",
         "Amelia Half Zip Knit"
     ],
@@ -2257,28 +2000,63 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "SHOREDITCH SKI CLUB",
-        "Kamila Base Layer"
+        "CARBON38",
+        "Ribbed Cami Bra"
     ],
-    "product_name": "Kamila Base Layer",
-    "brand": "SHOREDITCH SKI CLUB",
-    "price": "$119.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/SHOR-SSCJ002D-GREYGRYLT-Kamila-Base-Layer-color-Light-Grey_21379.jpg?v=1704485757&width=1000",
+    "product_name": "Ribbed Cami Bra",
+    "brand": "CARBON38",
+    "price": "$75.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/products/CARB-W158-BLKBLK-ribbed-cami-bra-Color-BLACK_4306.jpg?v=1677716790&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Light Grey",
+    "colour": "BLACK",
+    "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "description": "No Description",
+    "sku": "CARB-W158-BLKBLK-XS",
+    "product_id": "7329506394301"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Fairisle Sweatshirt"
+    ],
+    "product_name": "Fairisle Sweatshirt",
+    "brand": "CARBON38",
+    "price": "$143.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6040-GREY-23HOL-Fairisle-Sweatshirt-color-Heather-Grey_9730.jpg?v=1697233499&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Heather Grey",
     "sizes": [
         "XS",
         "S",
         "M",
         "L",
+        "XL",
         "XS",
         "S",
         "M",
-        "L"
+        "L",
+        "XL"
     ],
-    "description": "",
-    "sku": "SHOR-SSCJ002D-GREYGRYLT-S",
-    "product_id": "7490811003069"
+    "description": "UPPER KNIT: 70% ACRYLIC, 27% NYLON, 3% SPANDEX   MAIN FABRIC: 88% COTTON, 12% POLYESTER",
+    "sku": "CARB-YD6040-GREY-23HOL-XS",
+    "product_id": "7499290411197"
 },
 {
     "breadcrumbs": [
@@ -2371,15 +2149,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "Fairisle Sweatshirt"
+        "BEYOND YOGA",
+        "Spacedye Slim Racerback Cropped Tank"
     ],
-    "product_name": "Fairisle Sweatshirt",
-    "brand": "CARBON38",
-    "price": "$143.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6040-GREY-23HOL-Fairisle-Sweatshirt-color-Heather-Grey_9730.jpg?v=1697233499&width=1000",
+    "product_name": "Spacedye Slim Racerback Cropped Tank",
+    "brand": "BEYOND YOGA",
+    "price": "$58.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/BEYO-SD4382-BLUNV1-spacedye-slim-racerback-cropped-tank-1-Color-NOCTURNAL-NAVY_8826.jpg?v=1697499822&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Heather Grey",
+    "colour": "NOCTURNAL NAVY",
     "sizes": [
         "XS",
         "S",
@@ -2392,42 +2170,9 @@
         "L",
         "XL"
     ],
-    "description": "UPPER KNIT: 70% ACRYLIC, 27% NYLON, 3% SPANDEX   MAIN FABRIC: 88% COTTON, 12% POLYESTER",
-    "sku": "CARB-YD6040-GREY-23HOL-XS",
-    "product_id": "7499290411197"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Ribbed Cami Bra"
-    ],
-    "product_name": "Ribbed Cami Bra",
-    "brand": "CARBON38",
-    "price": "$75.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/products/CARB-W158-BLKBLK-ribbed-cami-bra-Color-BLACK_4306.jpg?v=1677716790&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "BLACK",
-    "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL",
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-    ],
-    "description": "No Description",
-    "sku": "CARB-W158-BLKBLK-XS",
-    "product_id": "7329506394301"
+    "description": "Moisture Wicking To Keep Dry",
+    "sku": "BEYO-SD4382-BLUNV1-XL",
+    "product_id": "7329494007997"
 },
 {
     "breadcrumbs": [
@@ -2455,120 +2200,6 @@
     "description": "Carbon38's custom",
     "sku": "ELSWIV-EIV-WCTISMAN-BLUEBLUDRK-XS",
     "product_id": "7508405485757"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "VARLEY",
-        "Cavello Longline Sweat"
-    ],
-    "product_name": "Cavello Longline Sweat",
-    "brand": "VARLEY",
-    "price": "$134.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01606-BLKBLK-CAVELLO-LONGLINE-SWEAT-color-BLACK_4.jpg?v=1697820723&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Cotton knit and brushed sweater combine in the Cavello - a longline, everyday sweat.",
-    "sku": "VARL-VAR01606-BLKBLK-XS",
-    "product_id": "7461369184445"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "ERIN SNOW",
-        "Jackie Sweater"
-    ],
-    "product_name": "Jackie Sweater",
-    "brand": "ERIN SNOW",
-    "price": "$296.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/ERIN-2314230-BLUEBLUDRK-JACKIE-SWEATER-color-INK_9363.jpg?v=1698706389&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Ink",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Timeless striped style crafted from an ethically-sourced high performance merino wool. The Jackie sweater is perfectly suited for any cold weather activity - whether it's a day on the slopes, or walking the streets of Paris.",
-    "sku": "ERIN-2314230-BLUEBLUDRK-XS",
-    "product_id": "7466757554365"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "WOLFORD",
-        "Thermal Top Long Sleeve"
-    ],
-    "product_name": "Thermal Top Long Sleeve",
-    "brand": "WOLFORD",
-    "price": "$302.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/WOLF-52984-BLKBLK-Thermal-Top-Long-Sleeves-color-Black_23834.jpg?v=1701823402&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "Long-sleeved thermal top with a round neck and decorative zippers in the sleeve seams. Made from recycled yarn, the super-soft knit regulates moisture and temperature. Logo bands on the shoulders sign off the look.",
-    "sku": "WOLF-52984-BLKBLK-XS",
-    "product_id": "7499041112253"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "BEYOND YOGA",
-        "Spacedye Slim Racerback Cropped Tank"
-    ],
-    "product_name": "Spacedye Slim Racerback Cropped Tank",
-    "brand": "BEYOND YOGA",
-    "price": "$58.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/BEYO-SD4382-BLUNV1-spacedye-slim-racerback-cropped-tank-1-Color-NOCTURNAL-NAVY_8826.jpg?v=1697499822&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "NOCTURNAL NAVY",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Moisture Wicking To Keep Dry",
-    "sku": "BEYO-SD4382-BLUNV1-XL",
-    "product_id": "7329494007997"
 },
 {
     "breadcrumbs": [
@@ -2603,15 +2234,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "SLEEVELESS MOCK NECK TOP IN MELT"
+        "ERIN SNOW",
+        "Jackie Sweater"
     ],
-    "product_name": "SLEEVELESS MOCK NECK TOP IN MELT",
-    "brand": "CARBON38",
-    "price": "$118.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6004-WHT-23SS-SLEEVELESS-MOCK-NECK-TOP-color-WHITE_15866.jpg?v=1700615453&width=1000",
+    "product_name": "Jackie Sweater",
+    "brand": "ERIN SNOW",
+    "price": "$296.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/ERIN-2314230-BLUEBLUDRK-JACKIE-SWEATER-color-INK_9363.jpg?v=1698706389&width=1000",
     "reviews": "0 Reviews",
-    "colour": "WHITE",
+    "colour": "Ink",
     "sizes": [
         "XS",
         "S",
@@ -2624,9 +2255,65 @@
         "L",
         "XL"
     ],
-    "description": "Our new elevated basic, the Sleeveless Mock Neck Top in Melt, comes in black, white, and navy. This simple, elegant, and elevated silhouette provides a fresh update to your tank collection. Pair this with a pair of leggings, a skirt, or use as a layering piece! This top is truly versatile and is oh so buttery soft.",
-    "sku": "CARB-YD6004-WHT-23SS-XS",
-    "product_id": "7416418009277"
+    "description": "Timeless striped style crafted from an ethically-sourced high performance merino wool. The Jackie sweater is perfectly suited for any cold weather activity - whether it's a day on the slopes, or walking the streets of Paris.",
+    "sku": "ERIN-2314230-BLUEBLUDRK-XS",
+    "product_id": "7466757554365"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "VARLEY",
+        "Cavello Longline Sweat"
+    ],
+    "product_name": "Cavello Longline Sweat",
+    "brand": "VARLEY",
+    "price": "$134.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01606-BLKBLK-CAVELLO-LONGLINE-SWEAT-color-BLACK_4.jpg?v=1697820723&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Cotton knit and brushed sweater combine in the Cavello - a longline, everyday sweat.",
+    "sku": "VARL-VAR01606-BLKBLK-XS",
+    "product_id": "7461369184445"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "WOLFORD",
+        "Thermal Top Long Sleeve"
+    ],
+    "product_name": "Thermal Top Long Sleeve",
+    "brand": "WOLFORD",
+    "price": "$302.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/WOLF-52984-BLKBLK-Thermal-Top-Long-Sleeves-color-Black_23834.jpg?v=1701823402&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "Long-sleeved thermal top with a round neck and decorative zippers in the sleeve seams. Made from recycled yarn, the super-soft knit regulates moisture and temperature. Logo bands on the shoulders sign off the look.",
+    "sku": "WOLF-52984-BLKBLK-XS",
+    "product_id": "7499041112253"
 },
 {
     "breadcrumbs": [
@@ -2685,6 +2372,35 @@
     "description": "Complete your wardrobe with comfort in SER.O.YA's Donna Sweater. This clean cut sweater comes with a satin front pocket. Pair with your favorite pair of high waisted leggings for a chic to and from look.",
     "sku": "SERO-602256-WHTOFFWHI-XL",
     "product_id": "7488158138557"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "SLEEVELESS MOCK NECK TOP IN MELT"
+    ],
+    "product_name": "SLEEVELESS MOCK NECK TOP IN MELT",
+    "brand": "CARBON38",
+    "price": "$118.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6004-WHT-23SS-SLEEVELESS-MOCK-NECK-TOP-color-WHITE_15866.jpg?v=1700615453&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "WHITE",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Our new elevated basic, the Sleeveless Mock Neck Top in Melt, comes in black, white, and navy. This simple, elegant, and elevated silhouette provides a fresh update to your tank collection. Pair this with a pair of leggings, a skirt, or use as a layering piece! This top is truly versatile and is oh so buttery soft.",
+    "sku": "CARB-YD6004-WHT-23SS-XS",
+    "product_id": "7416418009277"
 },
 {
     "breadcrumbs": [
@@ -2775,6 +2491,31 @@
     "breadcrumbs": [
         "home",
         "Designers",
+        "MISSONI",
+        "Crewneck Sweatshirt"
+    ],
+    "product_name": "Crewneck Sweatshirt",
+    "brand": "MISSONI",
+    "price": "$980.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/MISS-SS24SW05-MULTIMULTI-Crewneck-Sweatshirt-color-Rainbow-Lilla-arancio-lime_3283.jpg?v=1704825394&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Rainbow Lilla/Arancio/Lime",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "XS",
+        "S",
+        "M"
+    ],
+    "description": "This Missoni crew-neck sweatshirt features a subtle lurex yarn and an embroidered Missoni Sport logo. The garment is made of knitwear with a Caperdoni pattern and finished with plain trim. The embroidered logo completes the piece. Made in Italy.",
+    "sku": "MISS-SS24SW05-MULTIMULTI-XS",
+    "product_id": "7485027025085"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
         "L'Etoile Sport",
         "Pointelle Trim Tank"
     ],
@@ -2803,14 +2544,14 @@
         "home",
         "Designers",
         "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
+        "Wrap Sweater"
     ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
+    "product_name": "Wrap Sweater",
     "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615F-ORNG-24SS-Off-Shoulder-Sweatshirt-in-french-terry-color-Orange_18310.jpg?v=1704225028&width=1000",
+    "price": "$134.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6036-BLK-23HOL-Wrap-Sweater-color-Black_4608.jpg?v=1695852705&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Orange",
+    "colour": "Black",
     "sizes": [
         "XS",
         "S",
@@ -2823,9 +2564,415 @@
         "L",
         "XL"
     ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615F-ORNG-24SS-XS",
-    "product_id": "7549489709245"
+    "description": "The Long Sleeve Wrap Sweater is an elegant style that encases you in our soft, knit sweater yarn. It features a wrap ballet back and front. With its clean lines and luxe feel, this piece will elevate any look.",
+    "sku": "CARB-YD6036-BLK-23HOL-XL",
+    "product_id": "7487108251837"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Pocket Tee"
+    ],
+    "product_name": "Short Sleeve Pocket Tee",
+    "brand": "CARBON38",
+    "price": "$78.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD638A-BLK-23SS-Short-Sleeve-Pocket-Tee-color-Black_0081.jpg?v=1682452550&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "50% Cotton 50% Modal. MACHINE WASH COLD W/ LIKE COLORS. DO NOT BLEACH. TUMBLE DRY LOW.",
+    "sku": "CARB-YD638A-BLK-23SS-XS",
+    "product_id": "7441285906621"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "NORMA KAMALI",
+        "Shoulder Pad Long Sleeve Crew Top"
+    ],
+    "product_name": "Shoulder Pad Long Sleeve Crew Top",
+    "brand": "NORMA KAMALI",
+    "price": "$115.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-KK1206PL046001-BLKBLK-Shoulder-Pad-Long-Sleeve-Crew-Top-color-Black_64780-Edit.jpg?v=1715968793&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "4-WAY STRETCH POLY LYCRA.",
+    "sku": "NORMA-KK1206PL046001-BLKBLK-S",
+    "product_id": "7695946645693"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Mock Neck Long Sleeve in Melt"
+    ],
+    "product_name": "Mock Neck Long Sleeve in Melt",
+    "brand": "CARBON38",
+    "price": "$128.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6035-BLK-23HOL-Mock-Neck-Long-Sleeve-color-Black_4528.jpg?v=1695862414&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "MACHINE WASH COLD W/ LIKE COLORS // DO NOT BLEACH// HANG DRY // DO NOT IRON",
+    "sku": "CARB-YD6035-BLK-23HOL-XS",
+    "product_id": "7487208194237"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long Sleeve Off Shoulder Tee"
+    ],
+    "product_name": "Long Sleeve Off Shoulder Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-BLK-23FAL-Long-Sleeve-Off-Shoulder-Tee-color-Black_42663.jpg?v=1692658977&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "50% Cotton 50% Modal",
+    "sku": "CARB-YD6028-BLK-23FAL-XS",
+    "product_id": "7480958517437"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "BEYOND YOGA",
+        "Spacedye Slim Racerback Cropped Tank"
+    ],
+    "product_name": "Spacedye Slim Racerback Cropped Tank",
+    "brand": "BEYOND YOGA",
+    "price": "$58.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/BEYO-SD4382-BLKBLK-SPACEDYE-SLIM-RACERBACK-CROPPED-TANK-color-DARKEST-NIGHT_0099.jpg?v=1684269220&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "DARKEST NIGHT",
+    "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+    ],
+    "description": "Lay flat to dry, Machine wash cold delicate cycle, Tumble dry low, Wash with like colors",
+    "sku": "BEYO-SD4382-BLKBLK-XL",
+    "product_id": "7329493811389"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Zip Long Sleeve Run Top"
+    ],
+    "product_name": "Zip Long Sleeve Run Top",
+    "brand": "CARBON38",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6017H-GREYDRK-23FAL-Zip-Long-Sleeve-Run-Top-color-Charcoal-heather_47083.jpg?v=1692644562&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Charcoal Heather",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Machine wash cold with like colors/ do not bleach / hang dry / do not iron / do not dry clean.",
+    "sku": "CARB-YD6017H-GREYDRK-23FAL-XS",
+    "product_id": "7473221632189"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long RacerBack Tank"
+    ],
+    "product_name": "Long RacerBack Tank",
+    "brand": "CARBON38",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-WHT-23SS-Long-RacerBack-Tank-color-white_14201.jpg?v=1710451259&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Carbon38 Long RacerBack Tank in our classic color, White is perfect for everyday wear. It is the perfect bum-covering length. Match this back to our Black Takara leggings for a simple and elevated workout fit.",
+    "sku": "CARB-YD335-WHT-23SS-XS",
+    "product_id": "7441280073917"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Foil Half Zip Top in Melt"
+    ],
+    "product_name": "Foil Half Zip Top in Melt",
+    "brand": "CARBON38",
+    "price": "$158.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6057-GREY-23HOL-Foil-Half-Zip-top-in-Melt-color-Dark-Heather-Grey-with-Gunmetal-foil_17102.jpg?v=1700511815&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Dark Heather Grey with Gunmetal Foil",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Carbon38's Foil Half Zip Top in Melt is the perfect addition to your winter workout. This will keep you warm and ready for any workout. With the dark heather grey colorway with added gunmetal foil for an extra flare. Pair back with our",
+    "sku": "CARB-YD6057-GREY-23HOL-XS",
+    "product_id": "7491504898237"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "Phoebe Harrison",
+        "Viviana Sweater"
+    ],
+    "product_name": "Viviana Sweater",
+    "brand": "Phoebe Harrison",
+    "price": "$430.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/PHOE-W306-IVRYOFFWHI-VIVIANA-SWEATER-color-CREAMY-WHITE_45066.jpg?v=1693002329&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Creamy White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "is perfect for everyday. Slouchy shoulders and side splits make it feel relaxed and comfortable. Wear it with tailored pants or its matching Lexington pants. This sweater features a elevated rhinestone detailing on the sleeves, a relaxed fit, and 100% cashmere.",
+    "sku": "PHOE-W306-IVRYOFFWHI-M",
+    "product_id": "7474319425725"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long Sleeve Off Shoulder Tee"
+    ],
+    "product_name": "Long Sleeve Off Shoulder Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-WHT-23FAL-Long-Sleeve-Off-Shoulder-Tee-color-White_2.jpg?v=1694191404&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top",
+    "sku": "CARB-YD6028-WHT-23FAL-XS",
+    "product_id": "7480945836221"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "VARLEY",
+        "Portland High Neck Midlayer"
+    ],
+    "product_name": "Portland High Neck Midlayer",
+    "brand": "VARLEY",
+    "price": "$100.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01611-GREYGRYMED-PORTLAND-HIGH-NECK-MIDLAYER-color-GREY_5521.jpg?v=1691446863&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Grey",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Made in the Varley super soft Restore Jersey, the Portland midlayer is inspired by our bestselling Betsy silhouette. With a relaxed fit, roll neck, thumbholes, and external hem drawcord, it offers a versatile look that can be worn loose or cinched over pants.",
+    "sku": "VARL-VAR01611-GREYGRYMED-XL",
+    "product_id": "7460405280957"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "VARLEY",
+        "Mentone Knit"
+    ],
+    "product_name": "Mentone Knit",
+    "brand": "VARLEY",
+    "price": "$126.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR00815-PNKPINLT-MENTONE-KNIT-color-PALE-MAUVE_45542.jpg?v=1695161697&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Pale Mauve",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Crafted in Varley's luxuriously soft cotton knit, this half-zip pullover is cut to a boxy, cropped silhouette. Enhanced with dropped shoulders and an oversized collar, it takes you from work-to-weekend, seamlessly.",
+    "sku": "VARL-VAR00815-PNKPINLT-XL",
+    "product_id": "7460794466493"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "KERRI ROSENTHAL",
+        "Cabin Sweater Chevron"
+    ],
+    "product_name": "Cabin Sweater Chevron",
+    "brand": "KERRI ROSENTHAL",
+    "price": "$466.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/KRRNL-KR23-3267-IVRYMULTI-Cabin-Sweater-Chevron-color-Milky-Way_9420.jpg?v=1698442811&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Milky Way",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "100% Cashmere. Dry Clean only",
+    "sku": "KRRNL-KR23-3267-IVRYMULTI-M",
+    "product_id": "7484753772733"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "525",
+        "Eva Cropped Crew Neck Cardi"
+    ],
+    "product_name": "Eva Cropped Crew Neck Cardi",
+    "brand": "525",
+    "price": "$119.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/525-100104W14-PNKPINNEO-Eva-Cropped-Crew-Neck-Cardi-color-Shocking-Pink_0144-Edit.jpg?v=1710350539&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Shocking Pink",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Effortless style meets comfort in the 525 Cropped Crew Neck Cardigan. Perfect for layering, it adds a chic touch to any outfit.",
+    "sku": "525-100104W14-PNKPINNEO-XS",
+    "product_id": "7506511298749"
 },
 {
     "breadcrumbs": [
@@ -2861,14 +3008,14 @@
         "home",
         "Designers",
         "CARBON38",
-        "One Shoulder Convertible Tank in Melt"
+        "Off Shoulder Sweatshirt in French Terry"
     ],
-    "product_name": "One Shoulder Convertible Tank in Melt",
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
-    "price": "$108.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6014-PRNTLEO-23SM-One-Shoulder-convertible-Tank-color-Leopard-Print_30416-Edit.jpg?v=1719435017&width=1000",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615F-ORNG-24SS-Off-Shoulder-Sweatshirt-in-french-terry-color-Orange_18310.jpg?v=1704225028&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Leopard Print",
+    "colour": "Orange",
     "sizes": [
         "XS",
         "S",
@@ -2881,38 +3028,9 @@
         "L",
         "XL"
     ],
-    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
-    "sku": "CARB-YD6014-PRNTLEO-23SM-XS",
-    "product_id": "7443102695613"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "VARLEY",
-        "Posey Sherpa Jacket"
-    ],
-    "product_name": "Posey Sherpa Jacket",
-    "brand": "VARLEY",
-    "price": "$168.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01851-NUDENUDMED-Posey-Sherpa-Jacket-color-Sandshell_33701.jpg?v=1703112987&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Sandshell",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "A pullover-style sherpa layer with an oversized, boxy fit and comfortable jersey lining. Made from super soft Sherpa, this versatile design features a half-zip, soft twill trim, deep hand pockets and a drawcord cinch hem to seal in warmth.",
-    "sku": "VARL-VAR01851-NUDENUDMED-XS",
-    "product_id": "7486826873021"
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD615F-ORNG-24SS-XS",
+    "product_id": "7549489709245"
 },
 {
     "breadcrumbs": [
@@ -2981,64 +3099,6 @@
         "home",
         "Designers",
         "CARBON38",
-        "Long RacerBack Tank"
-    ],
-    "product_name": "Long RacerBack Tank",
-    "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-BRWN-23FAL-Long-RacerBack-Tank-color-Dark-Oak_2e9b9c90-81ae-4fa4-ad70-e303473fc0b1.jpg?v=1699472662&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Dark Oak",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Carbon38 Long Racer Back Tank in our exclusive color, Dark Oak, is perfect for everyday wear. Match this back to our Black Takara leggings for a monochromatic look or mix and match with our other leggings.",
-    "sku": "CARB-YD335-BRWN-23FAL-XS",
-    "product_id": "7475050021053"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
-    ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615F-JVA-23SM-Off-Shoulder-Sweatshirt-in-french-terry-color-dark-oak_16055.jpg?v=1700259274&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Dark Oak",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615F-BRWN-23SM-XS",
-    "product_id": "7459285762237"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
         "Seamed Tank in Melt"
     ],
     "product_name": "Seamed Tank in Melt",
@@ -3096,15 +3156,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "WESLEY",
-        "Rivington Ribbed Long Sleeve Top"
+        "CARBON38",
+        "Long RacerBack Tank"
     ],
-    "product_name": "Rivington Ribbed Long Sleeve Top",
-    "brand": "WESLEY",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/WSLY-BW202137-GREYGRYMED-Rivington-Ribbed-Long-Sleeve-Top-color-Grey-Heather_1569.jpg?v=1708544447&width=1000",
+    "product_name": "Long RacerBack Tank",
+    "brand": "CARBON38",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-BRWN-23FAL-Long-RacerBack-Tank-color-Dark-Oak_2e9b9c90-81ae-4fa4-ad70-e303473fc0b1.jpg?v=1699472662&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Grey Heather",
+    "colour": "Dark Oak",
     "sizes": [
         "XS",
         "S",
@@ -3117,9 +3177,67 @@
         "L",
         "XL"
     ],
-    "description": "Long sleeve top",
-    "sku": "WSLY-BW202137-GREYGRYMED-XS",
-    "product_id": "7606631006397"
+    "description": "The Carbon38 Long Racer Back Tank in our exclusive color, Dark Oak, is perfect for everyday wear. Match this back to our Black Takara leggings for a monochromatic look or mix and match with our other leggings.",
+    "sku": "CARB-YD335-BRWN-23FAL-XS",
+    "product_id": "7475050021053"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "VARLEY",
+        "Posey Sherpa Jacket"
+    ],
+    "product_name": "Posey Sherpa Jacket",
+    "brand": "VARLEY",
+    "price": "$168.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01851-NUDENUDMED-Posey-Sherpa-Jacket-color-Sandshell_33701.jpg?v=1703112987&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Sandshell",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "A pullover-style sherpa layer with an oversized, boxy fit and comfortable jersey lining. Made from super soft Sherpa, this versatile design features a half-zip, soft twill trim, deep hand pockets and a drawcord cinch hem to seal in warmth.",
+    "sku": "VARL-VAR01851-NUDENUDMED-XS",
+    "product_id": "7486826873021"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "One Shoulder Convertible Tank in Melt"
+    ],
+    "product_name": "One Shoulder Convertible Tank in Melt",
+    "brand": "CARBON38",
+    "price": "$108.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6014-PRNTLEO-23SM-One-Shoulder-convertible-Tank-color-Leopard-Print_30416-Edit.jpg?v=1719435017&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Leopard Print",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
+    "sku": "CARB-YD6014-PRNTLEO-23SM-XS",
+    "product_id": "7443102695613"
 },
 {
     "breadcrumbs": [
@@ -3155,6 +3273,35 @@
         "home",
         "Designers",
         "CARBON38",
+        "Off Shoulder Sweatshirt in French Terry"
+    ],
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
+    "brand": "CARBON38",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615F-JVA-23SM-Off-Shoulder-Sweatshirt-in-french-terry-color-dark-oak_16055.jpg?v=1700259274&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Dark Oak",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD615F-BRWN-23SM-XS",
+    "product_id": "7459285762237"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
         "Zip Long Sleeve Run Top"
     ],
     "product_name": "Zip Long Sleeve Run Top",
@@ -3178,6 +3325,35 @@
     "description": "The new Zip Long Sleeve Run top in Melt has arrived. This is the perfect on the go zip up for any workout. Features a flattering silhouette, a full zip,",
     "sku": "CARB-YD6017H-GREYLT-23FAL-XS",
     "product_id": "7473223794877"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "WESLEY",
+        "Rivington Ribbed Long Sleeve Top"
+    ],
+    "product_name": "Rivington Ribbed Long Sleeve Top",
+    "brand": "WESLEY",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/WSLY-BW202137-GREYGRYMED-Rivington-Ribbed-Long-Sleeve-Top-color-Grey-Heather_1569.jpg?v=1708544447&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Grey Heather",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Long sleeve top",
+    "sku": "WSLY-BW202137-GREYGRYMED-XS",
+    "product_id": "7606631006397"
 },
 {
     "breadcrumbs": [
@@ -3213,6 +3389,35 @@
         "home",
         "Designers",
         "CARBON38",
+        "Pearl Sweatshirt"
+    ],
+    "product_name": "Pearl Sweatshirt",
+    "brand": "CARBON38",
+    "price": "$158.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6038-GREY-23HOL-Pearl-Sweatshirt-color-Heather-Grey_4923.jpg?v=1699036378&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Heather Grey",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "42%VISCOSE 38%POLYESTER 20%NYLON",
+    "sku": "CARB-YD6038-GREY-23HOL-XS",
+    "product_id": "7486537498813"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
         "Short Sleeve Pocket Tee"
     ],
     "product_name": "Short Sleeve Pocket Tee",
@@ -3242,12 +3447,12 @@
         "home",
         "Designers",
         "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
+        "Front Twist Tank"
     ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
+    "product_name": "Front Twist Tank",
     "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-OLVE-22FAL-Off-Shoulder-Sweatshirt-in-french-terry-color-Olive_61689-Edit.jpg?v=1714411857&width=1000",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6053-OLVE-24SS-Front-twist-Tank-color-Olive_17879.jpg?v=1704225156&width=1000",
     "reviews": "0 Reviews",
     "colour": "Olive",
     "sizes": [
@@ -3262,38 +3467,9 @@
         "L",
         "XL"
     ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615-GRN-22FAL-XS",
-    "product_id": "7329509179581"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Pearl Sweatshirt"
-    ],
-    "product_name": "Pearl Sweatshirt",
-    "brand": "CARBON38",
-    "price": "$158.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6038-GREY-23HOL-Pearl-Sweatshirt-color-Heather-Grey_4923.jpg?v=1699036378&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Heather Grey",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "42%VISCOSE 38%POLYESTER 20%NYLON",
-    "sku": "CARB-YD6038-GREY-23HOL-XS",
-    "product_id": "7486537498813"
+    "description": "The Carbon38 essential Front Twist Tank is the perfect versatile tank. Dress it up with our Mesh Pleated Skirt. Pair it with any of our leggings in Melt or Takara for a great workout set.",
+    "sku": "CARB-YD6053-OLVE-24SS-XS",
+    "product_id": "7551404245181"
 },
 {
     "breadcrumbs": [
@@ -3328,129 +3504,13 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "BANDIER",
-        "Les Sports Bandier 1/2 Zip Sweatshirt"
-    ],
-    "product_name": "Les Sports Bandier 1/2 Zip Sweatshirt",
-    "brand": "BANDIER",
-    "price": "$144.50 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/BNDR-BND10227-BLKBLK-Les-Sport-Bandier-1-2-Zip-Sweatshirt-color-Black-White_1357.jpg?v=1708550402&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black/White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Everyday sweatshirt",
-    "sku": "BNDR-BND10227-BLKBLK-XS",
-    "product_id": "7606610100413"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "VARLEY",
-        "Darin Longline Knit Tank"
-    ],
-    "product_name": "Darin Longline Knit Tank",
-    "brand": "VARLEY",
-    "price": "$98.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01994-NUDENUDLT-Darin-Longline-Knit-Tank-color-Cashmere-Stone_0141-Edit.jpg?v=1712101039&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Cashmere Stone",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Made from 100% cotton with a textured open knit for enhanced breathability. Featuring convenient side splits for easy tucking and versatility, the Darin is perfect for layering year-round.",
-    "sku": "VARL-VAR01994-NUDENUDLT-XS",
-    "product_id": "7528140570813"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
         "CARBON38",
-        "Long RacerBack Tank"
+        "Off Shoulder Sweatshirt in French Terry"
     ],
-    "product_name": "Long RacerBack Tank",
+    "product_name": "Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-BLK-23SS-Long-RacerBack-Tank-color-Black_21.jpg?v=1685656615&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Carbon38 Long RacerBack Tank in our classic color, Black, is perfect for everyday wear. Match this back to our Black Takara leggings for a monochromatic look or mix and match with our other leggings.",
-    "sku": "CARB-YD335-BLK-23SS-XS",
-    "product_id": "7441282498749"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Long Sleeve Off Shoulder Tee"
-    ],
-    "product_name": "Long Sleeve Off Shoulder Tee",
-    "brand": "CARBON38",
-    "price": "$75.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-SILVSGE-23HOL-Long-Sleeve-Off-Shoulder-Tee-color-Silversage_26166.jpg?v=1701975278&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Silversage",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top",
-    "sku": "CARB-YD6028-SILVSGE-23HOL-XS",
-    "product_id": "7521612628157"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Front Twist Tank"
-    ],
-    "product_name": "Front Twist Tank",
-    "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6053-OLVE-24SS-Front-twist-Tank-color-Olive_17879.jpg?v=1704225156&width=1000",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-OLVE-22FAL-Off-Shoulder-Sweatshirt-in-french-terry-color-Olive_61689-Edit.jpg?v=1714411857&width=1000",
     "reviews": "0 Reviews",
     "colour": "Olive",
     "sizes": [
@@ -3465,9 +3525,9 @@
         "L",
         "XL"
     ],
-    "description": "The Carbon38 essential Front Twist Tank is the perfect versatile tank. Dress it up with our Mesh Pleated Skirt. Pair it with any of our leggings in Melt or Takara for a great workout set.",
-    "sku": "CARB-YD6053-OLVE-24SS-XS",
-    "product_id": "7551404245181"
+    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
+    "sku": "CARB-YD615-GRN-22FAL-XS",
+    "product_id": "7329509179581"
 },
 {
     "breadcrumbs": [
@@ -3532,6 +3592,122 @@
         "home",
         "Designers",
         "CARBON38",
+        "Long Sleeve Off Shoulder Tee"
+    ],
+    "product_name": "Long Sleeve Off Shoulder Tee",
+    "brand": "CARBON38",
+    "price": "$75.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-SILVSGE-23HOL-Long-Sleeve-Off-Shoulder-Tee-color-Silversage_26166.jpg?v=1701975278&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Silversage",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top",
+    "sku": "CARB-YD6028-SILVSGE-23HOL-XS",
+    "product_id": "7521612628157"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "VARLEY",
+        "Darin Longline Knit Tank"
+    ],
+    "product_name": "Darin Longline Knit Tank",
+    "brand": "VARLEY",
+    "price": "$98.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01994-NUDENUDLT-Darin-Longline-Knit-Tank-color-Cashmere-Stone_0141-Edit.jpg?v=1712101039&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Cashmere Stone",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Made from 100% cotton with a textured open knit for enhanced breathability. Featuring convenient side splits for easy tucking and versatility, the Darin is perfect for layering year-round.",
+    "sku": "VARL-VAR01994-NUDENUDLT-XS",
+    "product_id": "7528140570813"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long RacerBack Tank"
+    ],
+    "product_name": "Long RacerBack Tank",
+    "brand": "CARBON38",
+    "price": "$68.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-BLK-23SS-Long-RacerBack-Tank-color-Black_21.jpg?v=1685656615&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Carbon38 Long RacerBack Tank in our classic color, Black, is perfect for everyday wear. Match this back to our Black Takara leggings for a monochromatic look or mix and match with our other leggings.",
+    "sku": "CARB-YD335-BLK-23SS-XS",
+    "product_id": "7441282498749"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "BANDIER",
+        "Les Sports Bandier 1/2 Zip Sweatshirt"
+    ],
+    "product_name": "Les Sports Bandier 1/2 Zip Sweatshirt",
+    "brand": "BANDIER",
+    "price": "$144.50 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/BNDR-BND10227-BLKBLK-Les-Sport-Bandier-1-2-Zip-Sweatshirt-color-Black-White_1357.jpg?v=1708550402&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black/White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Everyday sweatshirt",
+    "sku": "BNDR-BND10227-BLKBLK-XS",
+    "product_id": "7606610100413"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
         "Cowl Neck Knit Sweatshirt"
     ],
     "product_name": "Cowl Neck Knit Sweatshirt",
@@ -3555,64 +3731,6 @@
     "description": "48% POLYESTER 48% RAYON 4% SPANDEX",
     "sku": "CARB-YD6065-BLK-24SS-S",
     "product_id": "7517666312381"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Pleated Back Tank in Melt"
-    ],
-    "product_name": "Pleated Back Tank in Melt",
-    "brand": "CARBON38",
-    "price": "$109.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD346-NUDE-24SS-Pleated-Back-Tank-color-SilverSage-Acid-Lime_18766.jpg?v=1704391516&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Silversage / Acid Lime",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Carbon38 Pleated Back Tank in our best-selling fabrication, Melt, is the perfect addition to spice up your workout wardrobe. This tank features a high neck with block coloring and a pleated back. Pair back with our Pleated Skirt Legging in Melt for a full look.",
-    "sku": "CARB-YD346-NUDE-24SS-XS",
-    "product_id": "7500860260541"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Colorblock Half Zip Top in Melt"
-    ],
-    "product_name": "Colorblock Half Zip Top in Melt",
-    "brand": "CARBON38",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6058-NUDE-24SS-Colorblock-Half-Zip-Top-color-Silversage-Acid-Lime_17627-Edit.jpg?v=1702950218&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Silversage / Acid Lime",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Our best-selling colorblock set in Melt got a new silhouette! This half zip top in our loved Melt fabrication is the perfect layering piece for any workout. Match it back to our new colorblock leggings and high neck top in Silversage and Acid Lime for a full look.",
-    "sku": "CARB-YD6058-NUDE-24SS-XS",
-    "product_id": "7501328810173"
 },
 {
     "breadcrumbs": [
@@ -3648,6 +3766,64 @@
         "home",
         "Designers",
         "CARBON38",
+        "Colorblock Half Zip Top in Melt"
+    ],
+    "product_name": "Colorblock Half Zip Top in Melt",
+    "brand": "CARBON38",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6058-NUDE-24SS-Colorblock-Half-Zip-Top-color-Silversage-Acid-Lime_17627-Edit.jpg?v=1702950218&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Silversage / Acid Lime",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Our best-selling colorblock set in Melt got a new silhouette! This half zip top in our loved Melt fabrication is the perfect layering piece for any workout. Match it back to our new colorblock leggings and high neck top in Silversage and Acid Lime for a full look.",
+    "sku": "CARB-YD6058-NUDE-24SS-XS",
+    "product_id": "7501328810173"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Pleated Back Tank in Melt"
+    ],
+    "product_name": "Pleated Back Tank in Melt",
+    "brand": "CARBON38",
+    "price": "$109.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD346-NUDE-24SS-Pleated-Back-Tank-color-SilverSage-Acid-Lime_18766.jpg?v=1704391516&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Silversage / Acid Lime",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "The Carbon38 Pleated Back Tank in our best-selling fabrication, Melt, is the perfect addition to spice up your workout wardrobe. This tank features a high neck with block coloring and a pleated back. Pair back with our Pleated Skirt Legging in Melt for a full look.",
+    "sku": "CARB-YD346-NUDE-24SS-XS",
+    "product_id": "7500860260541"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
         "Off Shoulder Sweatshirt in French Terry"
     ],
     "product_name": "Off Shoulder Sweatshirt in French Terry",
@@ -3677,14 +3853,14 @@
         "home",
         "Designers",
         "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
+        "Colorblock High Neck Tank"
     ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
+    "product_name": "Colorblock High Neck Tank",
     "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615F-WAS-24SS-Off-Shoulder-Sweatshirt-color-Wasabi_35793-Edit.jpg?v=1707868517&width=1000",
+    "price": "$92.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD345-NUDE-24SS-Colorblock-High-Neck-Tank-color-Silversage-Acid-Lime_17500.jpg?v=1703274202&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Wasabi",
+    "colour": "Silversage / Acid Lime",
     "sizes": [
         "XS",
         "S",
@@ -3697,9 +3873,9 @@
         "L",
         "XL"
     ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615F-WAS-24SS-XS",
-    "product_id": "7550626824381"
+    "description": "Our best-selling colorblock in Melt now in an effortless and elevated tank. Perfect to take you to any workout class. This seamless tank matches perfectly back to our colorblock leggings and layer on the colorblock half zip for a full look.",
+    "sku": "CARB-YD345-NUDE-24SS-XS",
+    "product_id": "7501515391165"
 },
 {
     "breadcrumbs": [
@@ -3729,35 +3905,6 @@
     "description": "The Carbon38 Long RacerBack Tank in our classic color, Black, is perfect for everyday wear. Match this back to our Black Takara leggings for a monochromatic look or mix and match with our other leggings.",
     "sku": "CARB-YD335-WAS-24SS-XS",
     "product_id": "7580088336573"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "NORMA KAMALI",
-        "NK Shirt W/ Collar Stand"
-    ],
-    "product_name": "NK Shirt W/ Collar Stand",
-    "brand": "NORMA KAMALI",
-    "price": "$115.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-KK1246PL381642-BLUEBLUDRK-NK-Shirt-W-Collar-Stand-color-True-Navy-Pinstripe_43717-Edit.jpg?v=1710185308&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "True Navy Pinstripe",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "4-WAY STRETCH POLY LYCRA.",
-    "sku": "NORMA-KK1246PL381642-BLUEBLUDRK-XS",
-    "product_id": "7512965120189"
 },
 {
     "breadcrumbs": [
@@ -3848,15 +3995,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "Colorblock High Neck Tank"
+        "NORMA KAMALI",
+        "NK Shirt W/ Collar Stand"
     ],
-    "product_name": "Colorblock High Neck Tank",
-    "brand": "CARBON38",
-    "price": "$92.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD345-NUDE-24SS-Colorblock-High-Neck-Tank-color-Silversage-Acid-Lime_17500.jpg?v=1703274202&width=1000",
+    "product_name": "NK Shirt W/ Collar Stand",
+    "brand": "NORMA KAMALI",
+    "price": "$115.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-KK1246PL381642-BLUEBLUDRK-NK-Shirt-W-Collar-Stand-color-True-Navy-Pinstripe_43717-Edit.jpg?v=1710185308&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Silversage / Acid Lime",
+    "colour": "True Navy Pinstripe",
     "sizes": [
         "XS",
         "S",
@@ -3869,38 +4016,9 @@
         "L",
         "XL"
     ],
-    "description": "Our best-selling colorblock in Melt now in an effortless and elevated tank. Perfect to take you to any workout class. This seamless tank matches perfectly back to our colorblock leggings and layer on the colorblock half zip for a full look.",
-    "sku": "CARB-YD345-NUDE-24SS-XS",
-    "product_id": "7501515391165"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Wide Scoop Bra Tank in Melt"
-    ],
-    "product_name": "Wide Scoop Bra Tank in Melt",
-    "brand": "CARBON38",
-    "price": "$98.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD640-NVY-22HOL-Wide-Scoop-Bra-Tank-color-Navy-Blazer_20898.jpg?v=1701307246&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Navy Blazer",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Introducing a new silhouette in our buttery-soft melt fabric, the Wide Scoop Bra Tank. Offering full coverage and a built in shelf bra, the neutral tank is sure to become a go-to staple in your everyday wardrobe.",
-    "sku": "CARB-YD640-NVY-22HOL-XS",
-    "product_id": "7329509703869"
+    "description": "4-WAY STRETCH POLY LYCRA.",
+    "sku": "NORMA-KK1246PL381642-BLUEBLUDRK-XS",
+    "product_id": "7512965120189"
 },
 {
     "breadcrumbs": [
@@ -3912,9 +4030,9 @@
     "product_name": "Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
     "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-BLK-22HOL-Off-Shoulder-Sweatshirt-in-french-terry-color-BLACK_16117.jpg?v=1700257976&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615F-WAS-24SS-Off-Shoulder-Sweatshirt-color-Wasabi_35793-Edit.jpg?v=1707868517&width=1000",
     "reviews": "0 Reviews",
-    "colour": "BLACK",
+    "colour": "Wasabi",
     "sizes": [
         "XS",
         "S",
@@ -3928,37 +4046,8 @@
         "XL"
     ],
     "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615-BLK-22HOL-XS",
-    "product_id": "7355153744061"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "ADIDAS BY STELLA MCCARTNEY",
-        "adidas by Stella McCartney Crop Top"
-    ],
-    "product_name": "adidas by Stella McCartney Crop Top",
-    "brand": "ADIDAS BY STELLA MCCARTNEY",
-    "price": "$100.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/ADID-IN3653-BLUEBLUDRK-adidas-by-Stella-McCartney-Crop-Top-color-tech-mineral_19323.jpg?v=1702063773&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Tech Mineral",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Machine wash cold delicate cycle",
-    "sku": "ADID-IN3653-BLUEBLUDRK-L",
-    "product_id": "7503041102013"
+    "sku": "CARB-YD615F-WAS-24SS-XS",
+    "product_id": "7550626824381"
 },
 {
     "breadcrumbs": [
@@ -3994,41 +4083,12 @@
         "home",
         "Designers",
         "CARBON38",
-        "High Neck Laser Cut Tank in Diamond Compression"
+        "Wide Scoop Bra Tank in Melt"
     ],
-    "product_name": "High Neck Laser Cut Tank in Diamond Compression",
+    "product_name": "Wide Scoop Bra Tank in Melt",
     "brand": "CARBON38",
-    "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD347-BLK-24SS-High-Neck-Laser-Cut-Tank-color-Black_38769.jpg?v=1706654170&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "72% NYLON 28% SPANDEX",
-    "sku": "CARB-YD347-BLK-24SS-XS",
-    "product_id": "7524679614653"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Strappy Tank in Melt"
-    ],
-    "product_name": "Strappy Tank in Melt",
-    "brand": "CARBON38",
-    "price": "$108.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD338-BLUE-23FAL-Strappy-Tank-in-Melt-color-Navy-Blazer_3169.jpg?v=1689018986&width=1000",
+    "price": "$98.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD640-NVY-22HOL-Wide-Scoop-Bra-Tank-color-Navy-Blazer_20898.jpg?v=1701307246&width=1000",
     "reviews": "0 Reviews",
     "colour": "Navy Blazer",
     "sizes": [
@@ -4043,23 +4103,23 @@
         "L",
         "XL"
     ],
-    "description": "81% Nylon 19% Spandex",
-    "sku": "CARB-YD338-BLUE-23FAL-XS",
-    "product_id": "7485225566397"
+    "description": "Introducing a new silhouette in our buttery-soft melt fabric, the Wide Scoop Bra Tank. Offering full coverage and a built in shelf bra, the neutral tank is sure to become a go-to staple in your everyday wardrobe.",
+    "sku": "CARB-YD640-NVY-22HOL-XS",
+    "product_id": "7329509703869"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
+        "Short Sleeve Sweater"
     ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
+    "product_name": "Short Sleeve Sweater",
     "brand": "CARBON38",
     "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-NVY-22HOL-Off-Shoulder-Sweatshirt-in-french-terry-color-NAVY-BLAZER_15965.jpg?v=1700258206&width=1000",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6069-WHT-24SS-Short-Sleeve-Sweater-color-White_39199.jpg?v=1706730861&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Navy Blazer",
+    "colour": "White",
     "sizes": [
         "XS",
         "S",
@@ -4072,81 +4132,23 @@
         "L",
         "XL"
     ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back.",
-    "sku": "CARB-YD615-NVY-22HOL-XS",
-    "product_id": "7381797437629"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Ombre Cap Sleeve Wrap Tee"
-    ],
-    "product_name": "Ombre Cap Sleeve Wrap Tee",
-    "brand": "CARBON38",
-    "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6070-BLUE-24SS-Ombre-Cap-Sleeve-Wrap-Tee-color-Navy-Ombre_36925.jpg?v=1705953871&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Navy Ombre",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "50% Cotton 50% Modal",
-    "sku": "CARB-YD6070-BLUE-24SS-XS",
-    "product_id": "7522594324669"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Chambray Denim Shirt"
-    ],
-    "product_name": "Chambray Denim Shirt",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6087-LTCHMBRY-24SM-Chambray-Denim-Shirt-color-Light-Wash_0089-Edit.jpg?v=1718901897&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Light Wash",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "78% Tencel 10%Cotton 9%Polyester 3%Spandex",
-    "sku": "CARB-YD6087-LTCHMBRY-24SM-XS",
-    "product_id": "7564895715517"
+    "description": "Carbon38's Short Sleeve Sweater is the perfect transitional piece. Whether worn with the mesh pleated skirt or with jeans and a t-shirt for your weekend uniform, this easy-fitting staple is one you can't go wrong with.",
+    "sku": "CARB-YD6069-WHT-24SS-XS",
+    "product_id": "7541689286845"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "VARLEY",
-        "Davidson Sweat"
+        "Davenport Half Zip Sweat"
     ],
-    "product_name": "Davidson Sweat",
+    "product_name": "Davenport Half Zip Sweat",
     "brand": "VARLEY",
-    "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01080-GRNGRNDRK-Davidson-Sweat-color-Cilantro_40116-Edit.jpg?v=1709939133&width=1000",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01968-WHTWHI-Davenport-Half-Zip-Sweat-color-White_0459-Edit.jpg?v=1712101335&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Cilantro",
+    "colour": "White",
     "sizes": [
         "XS",
         "S",
@@ -4159,38 +4161,9 @@
         "L",
         "XL"
     ],
-    "description": "Subtly cropped for versatile styling, the Davidson sweat is an essential layering piece. Made in our lightweight DoubleSoft™️ fabric, this cropped style is complete with dropped shoulders and deep cuffs. The epitome of laid-back luxury, pair this contemporary top layer with coordinating sweatpants.",
-    "sku": "VARL-VAR01080-GRNGRNDRK-M",
-    "product_id": "7508007551165"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Chambray Denim Shirt"
-    ],
-    "product_name": "Chambray Denim Shirt",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6087-DRKCHMBRY-24SM-Chambray-Denim-Shirt-color-Medium-Wash_64212-Edit.jpg?v=1714523159&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Medium Wash",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "78% Tencel 10%Cotton 9%Polyester 3%Spandex",
-    "sku": "CARB-YD6087-MEDCHMBRY-24SM-XS",
-    "product_id": "7559772799165"
+    "description": "A casual wardrobe staple, it's designed with dropped shoulders, front panelling, and contrast piping for a retro-sporty look. Perfect for effortless styling post-match or during leisurely outings.",
+    "sku": "VARL-VAR01968-WHTWHI-S",
+    "product_id": "7529286500541"
 },
 {
     "breadcrumbs": [
@@ -4250,15 +4223,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "VARLEY",
-        "Davenport Half Zip Sweat"
+        "CARBON38",
+        "Ombre Cap Sleeve Wrap Tee"
     ],
-    "product_name": "Davenport Half Zip Sweat",
-    "brand": "VARLEY",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01968-WHTWHI-Davenport-Half-Zip-Sweat-color-White_0459-Edit.jpg?v=1712101335&width=1000",
+    "product_name": "Ombre Cap Sleeve Wrap Tee",
+    "brand": "CARBON38",
+    "price": "$128.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6070-BLUE-24SS-Ombre-Cap-Sleeve-Wrap-Tee-color-Navy-Ombre_36925.jpg?v=1705953871&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Navy Ombre",
     "sizes": [
         "XS",
         "S",
@@ -4271,23 +4244,23 @@
         "L",
         "XL"
     ],
-    "description": "A casual wardrobe staple, it's designed with dropped shoulders, front panelling, and contrast piping for a retro-sporty look. Perfect for effortless styling post-match or during leisurely outings.",
-    "sku": "VARL-VAR01968-WHTWHI-S",
-    "product_id": "7529286500541"
+    "description": "50% Cotton 50% Modal",
+    "sku": "CARB-YD6070-BLUE-24SS-XS",
+    "product_id": "7522594324669"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "Short Sleeve Sweater"
+        "ADIDAS BY STELLA MCCARTNEY",
+        "adidas by Stella McCartney Crop Top"
     ],
-    "product_name": "Short Sleeve Sweater",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6069-WHT-24SS-Short-Sleeve-Sweater-color-White_39199.jpg?v=1706730861&width=1000",
+    "product_name": "adidas by Stella McCartney Crop Top",
+    "brand": "ADIDAS BY STELLA MCCARTNEY",
+    "price": "$100.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/ADID-IN3653-BLUEBLUDRK-adidas-by-Stella-McCartney-Crop-Top-color-tech-mineral_19323.jpg?v=1702063773&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Tech Mineral",
     "sizes": [
         "XS",
         "S",
@@ -4300,9 +4273,9 @@
         "L",
         "XL"
     ],
-    "description": "Carbon38's Short Sleeve Sweater is the perfect transitional piece. Whether worn with the mesh pleated skirt or with jeans and a t-shirt for your weekend uniform, this easy-fitting staple is one you can't go wrong with.",
-    "sku": "CARB-YD6069-WHT-24SS-XS",
-    "product_id": "7541689286845"
+    "description": "Machine wash cold delicate cycle",
+    "sku": "ADID-IN3653-BLUEBLUDRK-L",
+    "product_id": "7503041102013"
 },
 {
     "breadcrumbs": [
@@ -4337,6 +4310,62 @@
     "breadcrumbs": [
         "home",
         "Designers",
+        "VARLEY",
+        "Davidson Sweat"
+    ],
+    "product_name": "Davidson Sweat",
+    "brand": "VARLEY",
+    "price": "$128.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01080-GRNGRNDRK-Davidson-Sweat-color-Cilantro_40116-Edit.jpg?v=1709939133&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Cilantro",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Subtly cropped for versatile styling, the Davidson sweat is an essential layering piece. Made in our lightweight DoubleSoft™️ fabric, this cropped style is complete with dropped shoulders and deep cuffs. The epitome of laid-back luxury, pair this contemporary top layer with coordinating sweatpants.",
+    "sku": "VARL-VAR01080-GRNGRNDRK-M",
+    "product_id": "7508007551165"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Ruched Tee"
+    ],
+    "product_name": "Short Sleeve Ruched Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6117-BLK-24SM-Short-Sleeve-Ruched-Tee-color-Black_63579-Edit.jpg?v=1715815607&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "Our Short Sleeve Ruched Tee is the perfect elevated layering piece for any of your activewear.  This comfy short-sleeve tee covers the waistband and hits slightly above the hips, with side ruching details, and crew neckline.",
+    "sku": "CARB-YD6117-BLK-24SM-XS",
+    "product_id": "7630789935293"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
         "CARBON38",
         "Ombre Cap Sleeve Wrap Tee"
     ],
@@ -4361,35 +4390,6 @@
     "description": "50% Cotton 50% Modal",
     "sku": "CARB-YD6070-BLK-24SS-XS",
     "product_id": "7522613592253"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "VARLEY",
-        "Hawley Half Zip Sweat"
-    ],
-    "product_name": "Hawley Half Zip Sweat",
-    "brand": "VARLEY",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01461-PNKPINMED-Hawley-Half-Zip-Sweat-color-Withered-Rose_0563-Edit.jpg?v=1712174674&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Withered Rose",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "Cut to a relaxed fit, this versatile sweat features a panelled, half-zip neck and deep cuffs with hem band. Produced in the signature DoubleSoft® fabric, it's designed to be worn on-the-go.",
-    "sku": "VARL-VAR01461-PNKPINMED-XS",
-    "product_id": "7528133623997"
 },
 {
     "breadcrumbs": [
@@ -4453,69 +4453,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "Short Sleeve Ruched Tee"
+        "VARLEY",
+        "Hawley Half Zip Sweat"
     ],
-    "product_name": "Short Sleeve Ruched Tee",
-    "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6117-BLK-24SM-Short-Sleeve-Ruched-Tee-color-Black_63579-Edit.jpg?v=1715815607&width=1000",
+    "product_name": "Hawley Half Zip Sweat",
+    "brand": "VARLEY",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01461-PNKPINMED-Hawley-Half-Zip-Sweat-color-Withered-Rose_0563-Edit.jpg?v=1712174674&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "Our Short Sleeve Ruched Tee is the perfect elevated layering piece for any of your activewear.  This comfy short-sleeve tee covers the waistband and hits slightly above the hips, with side ruching details, and crew neckline.",
-    "sku": "CARB-YD6117-BLK-24SM-XS",
-    "product_id": "7630789935293"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "MICHI",
-        "Cascata Sweatshirt"
-    ],
-    "product_name": "Cascata Sweatshirt",
-    "brand": "MICHI",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/MICH-CASW30-BLKBLK-Cascata-Sweatshirt-color-Black_43515-Edit.jpg?v=1709001528&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Black",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS",
-        "S",
-        "M",
-        "L"
-    ],
-    "description": "Relaxed-fit sweater for cozy coverage to and from the studio. Elevate your active with this retro aerobic-inspired layer, crafted in an ultra-soft French Terry fabric.",
-    "sku": "MICH-CASW30-BLKBLK-M",
-    "product_id": "7510560833725"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Short Sleeve Ruched Tee"
-    ],
-    "product_name": "Short Sleeve Ruched Tee",
-    "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6117-LOTUS-24SM-Short-Sleeve-Rouched-Tee-color-Lotus_63895-Edit.jpg?v=1713206938&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Lotus",
+    "colour": "Withered Rose",
     "sizes": [
         "XS",
         "S",
@@ -4528,9 +4474,9 @@
         "L",
         "XL"
     ],
-    "description": "omfy short-sleeve tee covers the waistband and hits slightly above the hips, with side ruching details, and  crew neckline.",
-    "sku": "CARB-YD6117-LOTUS-24SM-XS",
-    "product_id": "7687512588477"
+    "description": "Cut to a relaxed fit, this versatile sweat features a panelled, half-zip neck and deep cuffs with hem band. Produced in the signature DoubleSoft® fabric, it's designed to be worn on-the-go.",
+    "sku": "VARL-VAR01461-PNKPINMED-XS",
+    "product_id": "7528133623997"
 },
 {
     "breadcrumbs": [
@@ -4565,13 +4511,42 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "PORT DE BRAS",
-        "Lauren Top"
+        "CARBON38",
+        "Short Sleeve Ruched Tee"
     ],
-    "product_name": "Lauren Top",
-    "brand": "PORT DE BRAS",
-    "price": "$185.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/PORT-TOP-BLK-0053-BLKBLK-Lauren-Top-color-Black_1447-Edit.jpg?v=1713916469&width=1000",
+    "product_name": "Short Sleeve Ruched Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6117-LOTUS-24SM-Short-Sleeve-Rouched-Tee-color-Lotus_63895-Edit.jpg?v=1713206938&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Lotus",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "omfy short-sleeve tee covers the waistband and hits slightly above the hips, with side ruching details, and  crew neckline.",
+    "sku": "CARB-YD6117-LOTUS-24SM-XS",
+    "product_id": "7687512588477"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "MICHI",
+        "Cascata Sweatshirt"
+    ],
+    "product_name": "Cascata Sweatshirt",
+    "brand": "MICHI",
+    "price": "$148.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/MICH-CASW30-BLKBLK-Cascata-Sweatshirt-color-Black_43515-Edit.jpg?v=1709001528&width=1000",
     "reviews": "0 Reviews",
     "colour": "Black",
     "sizes": [
@@ -4584,9 +4559,9 @@
         "M",
         "L"
     ],
-    "description": "If you love the popular Lauren Active Suit and are looking for a long sleeve alternative, this top is for you. Chic, bold and ultra feminine, the Lauren top makes transitioning from day to night easier than ever. Pair back to the Slit Cargo Pant for a full look.",
-    "sku": "PORT-TOP-BLK-0053-BLKBLK-XS",
-    "product_id": "7584668909757"
+    "description": "Relaxed-fit sweater for cozy coverage to and from the studio. Elevate your active with this retro aerobic-inspired layer, crafted in an ultra-soft French Terry fabric.",
+    "sku": "MICH-CASW30-BLKBLK-M",
+    "product_id": "7510560833725"
 },
 {
     "breadcrumbs": [
@@ -4622,14 +4597,14 @@
         "home",
         "Designers",
         "PORT DE BRAS",
-        "Elle Top"
+        "Lauren Top"
     ],
-    "product_name": "Elle Top",
+    "product_name": "Lauren Top",
     "brand": "PORT DE BRAS",
-    "price": "$175.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/PORT-TOP-CHY-0007-IVRYOFFWHI-Elle-Top-color-Chantilly_1355-Edit.jpg?v=1713915829&width=1000",
+    "price": "$185.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/PORT-TOP-BLK-0053-BLKBLK-Lauren-Top-color-Black_1447-Edit.jpg?v=1713916469&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Chantilly",
+    "colour": "Black",
     "sizes": [
         "XS",
         "S",
@@ -4640,23 +4615,23 @@
         "M",
         "L"
     ],
-    "description": "To guarantee the longevity of your piece, please follow these guidelines:",
-    "sku": "PORT-TOP-CHY-0007-IVRYOFFWHI-XS",
-    "product_id": "7584673890493"
+    "description": "If you love the popular Lauren Active Suit and are looking for a long sleeve alternative, this top is for you. Chic, bold and ultra feminine, the Lauren top makes transitioning from day to night easier than ever. Pair back to the Slit Cargo Pant for a full look.",
+    "sku": "PORT-TOP-BLK-0053-BLKBLK-XS",
+    "product_id": "7584668909757"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "CARBON38",
-        "Cap Sleeve Top"
+        "Short Sleeve Off Shoulder Sweatshirt in French Terry"
     ],
-    "product_name": "Cap Sleeve Top",
+    "product_name": "Short Sleeve Off Shoulder Sweatshirt in French Terry",
     "brand": "CARBON38",
-    "price": "$138.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6098-WHT-24SM-Cap-Sleeve-Top-color-White_64079-Edit.jpg?v=1713489627&width=1000",
+    "price": "$128.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD694-BLKBLK-Short-Sleeve-Off-Shoulder-Sweatshirt-in-french-terry-color-Black_4331.jpg?v=1689023666&width=1000",
     "reviews": "0 Reviews",
-    "colour": "White",
+    "colour": "Black",
     "sizes": [
         "XS",
         "S",
@@ -4669,71 +4644,9 @@
         "L",
         "XL"
     ],
-    "description": "50% Cotton 50% Modal",
-    "sku": "CARB-YD6098-WHT-24SM-XS",
-    "product_id": "7590214533309"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "BANDIER",
-        "Bowery Boxy Weekend Cotton Tee"
-    ],
-    "product_name": "Bowery Boxy Weekend Cotton Tee",
-    "brand": "BANDIER",
-    "price": "$70.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/BW202083-bowery-boxy-weekend-cotton-tee-color-white2_b76804ae-2131-4b65-8587-8ee533744433.jpg?v=1717021417&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White",
-    "sizes": [
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL",
-        "XXS",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "2XL"
-    ],
-    "description": "Sports tee",
-    "sku": "honeycomb-40028331868194",
-    "product_id": "7761827463357"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Short Sleeve Ruched Tee"
-    ],
-    "product_name": "Short Sleeve Ruched Tee",
-    "brand": "CARBON38",
-    "price": "$88.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6117-WHT-24SM-Short-Sleeve-Rouched-Tee-color-White_63829-Edit.jpg?v=1713294847&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "omfy short-sleeve tee covers the waistband and hits slightly above the hips, with side ruching details, and  crew neckline.",
-    "sku": "CARB-YD6117-WHT-24SM-XS",
-    "product_id": "7687511933117"
+    "description": "Our best-selling Off Shoulder Sweatshirt got an update! The Short Sleeve Off Shoulder Sweatshirt features all the same amazing qualities such as a roomy fit, a slouchy silhouette, and raw-edged asymmetrical neckline but this time we made it with short sleeves. Making this the perfect summer staple. This French Terry sweatshirt keeps things effortlessly laid-back. Made in LA.",
+    "sku": "CARB-YD694-BLKBLK-XS",
+    "product_id": "7485275930813"
 },
 {
     "breadcrumbs": [
@@ -4801,6 +4714,62 @@
     "breadcrumbs": [
         "home",
         "Designers",
+        "PORT DE BRAS",
+        "Elle Top"
+    ],
+    "product_name": "Elle Top",
+    "brand": "PORT DE BRAS",
+    "price": "$175.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/PORT-TOP-CHY-0007-IVRYOFFWHI-Elle-Top-color-Chantilly_1355-Edit.jpg?v=1713915829&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Chantilly",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "To guarantee the longevity of your piece, please follow these guidelines:",
+    "sku": "PORT-TOP-CHY-0007-IVRYOFFWHI-XS",
+    "product_id": "7584673890493"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Cap Sleeve Top"
+    ],
+    "product_name": "Cap Sleeve Top",
+    "brand": "CARBON38",
+    "price": "$138.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6098-WHT-24SM-Cap-Sleeve-Top-color-White_64079-Edit.jpg?v=1713489627&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "50% Cotton 50% Modal",
+    "sku": "CARB-YD6098-WHT-24SM-XS",
+    "product_id": "7590214533309"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
         "CARBON38",
         "Puff Sleeve Tee"
     ],
@@ -4830,15 +4799,48 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "Short Sleeve Off Shoulder Sweatshirt in French Terry"
+        "BANDIER",
+        "Bowery Boxy Weekend Cotton Tee"
     ],
-    "product_name": "Short Sleeve Off Shoulder Sweatshirt in French Terry",
-    "brand": "CARBON38",
-    "price": "$128.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD694-BLKBLK-Short-Sleeve-Off-Shoulder-Sweatshirt-in-french-terry-color-Black_4331.jpg?v=1689023666&width=1000",
+    "product_name": "Bowery Boxy Weekend Cotton Tee",
+    "brand": "BANDIER",
+    "price": "$70.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/BW202083-bowery-boxy-weekend-cotton-tee-color-white2_b76804ae-2131-4b65-8587-8ee533744433.jpg?v=1717021417&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Black",
+    "colour": "White",
+    "sizes": [
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "XXS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+    ],
+    "description": "Sports tee",
+    "sku": "honeycomb-40028331868194",
+    "product_id": "7761827463357"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Short Sleeve Ruched Tee"
+    ],
+    "product_name": "Short Sleeve Ruched Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6117-WHT-24SM-Short-Sleeve-Rouched-Tee-color-White_63829-Edit.jpg?v=1713294847&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White",
     "sizes": [
         "XS",
         "S",
@@ -4851,9 +4853,9 @@
         "L",
         "XL"
     ],
-    "description": "Our best-selling Off Shoulder Sweatshirt got an update! The Short Sleeve Off Shoulder Sweatshirt features all the same amazing qualities such as a roomy fit, a slouchy silhouette, and raw-edged asymmetrical neckline but this time we made it with short sleeves. Making this the perfect summer staple. This French Terry sweatshirt keeps things effortlessly laid-back. Made in LA.",
-    "sku": "CARB-YD694-BLKBLK-XS",
-    "product_id": "7485275930813"
+    "description": "omfy short-sleeve tee covers the waistband and hits slightly above the hips, with side ruching details, and  crew neckline.",
+    "sku": "CARB-YD6117-WHT-24SM-XS",
+    "product_id": "7687511933117"
 },
 {
     "breadcrumbs": [
@@ -4883,62 +4885,6 @@
     "description": "81% Nylon 19% Spandex",
     "sku": "CARB-YD352-BLK-24SM-XS",
     "product_id": "7586367209661"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "L'Etoile Sport",
-        "Mesh Zip Performance Polo"
-    ],
-    "product_name": "Mesh Zip Performance Polo",
-    "brand": "L'Etoile Sport",
-    "price": "$165.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/LTSP-T070-WHTGRNDRK-Mesh-Zip-Performance-Polo-color-White-with-Green-Trim_1057-Edit.jpg?v=1710535707&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White with Green Trim",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Mesh Zip Performance Polo will have you ready to take on the course and the court. Featuring a pique body, knit collar, and breathable mesh paneling this polo pairs easily with any of your favorite tennis or golf bottoms.",
-    "sku": "LTSP-T070-WHTGRNDRK-XL",
-    "product_id": "7541978824893"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "MISSONI",
-        "Ribbed crew-neck jumper with contrasting collar"
-    ],
-    "product_name": "Ribbed crew-neck jumper with contrasting collar",
-    "brand": "MISSONI",
-    "price": "$1,120.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/MISS-DS24SN15-MULTIMULTI-Crewneck-Sweater-color-Orange-Multi_1473-Edit.jpg?v=1712337034&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Orange / Multi",
-    "sizes": [
-        "38",
-        "40",
-        "42",
-        "44",
-        "38",
-        "40",
-        "42",
-        "44"
-    ],
-    "description": "The contrasting collar stands out on the Missoni viscose blend knit of the women's pullover. With long sleeves and vanisé ribbed knit, the crew-neck model lends itself well to adding elegance and sophistication to everyday outfits.",
-    "sku": "MISS-DS24SN15-MULTIMULTI-38",
-    "product_id": "7513506250941"
 },
 {
     "breadcrumbs": [
@@ -5030,14 +4976,14 @@
         "home",
         "Designers",
         "MISSONI",
-        "Long Sleeve T Shirt"
+        "Ribbed crew-neck jumper with contrasting collar"
     ],
-    "product_name": "Long Sleeve T Shirt",
+    "product_name": "Ribbed crew-neck jumper with contrasting collar",
     "brand": "MISSONI",
-    "price": "$920.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/MISS-MC22SL00-MULTIMULTI-Long-Sleeve-T-Shirt-color-Red-Blue-Space_1651-Edit.jpg?v=1715989367&width=1000",
+    "price": "$1,120.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/MISS-DS24SN15-MULTIMULTI-Crewneck-Sweater-color-Orange-Multi_1473-Edit.jpg?v=1712337034&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Red / Blue Space",
+    "colour": "Orange / Multi",
     "sizes": [
         "38",
         "40",
@@ -5048,23 +4994,50 @@
         "42",
         "44"
     ],
-    "description": "No Description",
-    "sku": "MISS-MC22SL00-MULTIMULTI-44",
-    "product_id": "7514228818109"
+    "description": "The contrasting collar stands out on the Missoni viscose blend knit of the women's pullover. With long sleeves and vanisé ribbed knit, the crew-neck model lends itself well to adding elegance and sophistication to everyday outfits.",
+    "sku": "MISS-DS24SN15-MULTIMULTI-38",
+    "product_id": "7513506250941"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
-        "VARLEY",
-        "Delancy Knit Vest"
+        "FORE-TE",
+        "Margot Pullover"
     ],
-    "product_name": "Delancy Knit Vest",
-    "brand": "VARLEY",
-    "price": "$98.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/VARL-VAR01541-PNKPINLT-Delancy-Knit-Vest-color-Woodrose_60695-Edit.jpg?v=1716337524&width=1000",
+    "product_name": "Margot Pullover",
+    "brand": "FORE-TE",
+    "price": "$142.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/FORETE-F1007B-BLKBLK-Margot-Pullover-color-Black_1690-Edit.jpg?v=1718065269&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Woodrose",
+    "colour": "Black",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "Lightweight technical performance fabric (wind and water resistant)",
+    "sku": "FORETE-F1007B-BLKBLK-XS",
+    "product_id": "7687591362749"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "L'Etoile Sport",
+        "Mesh Zip Performance Polo"
+    ],
+    "product_name": "Mesh Zip Performance Polo",
+    "brand": "L'Etoile Sport",
+    "price": "$165.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/LTSP-T070-WHTGRNDRK-Mesh-Zip-Performance-Polo-color-White-with-Green-Trim_1057-Edit.jpg?v=1710535707&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White with Green Trim",
     "sizes": [
         "XS",
         "S",
@@ -5077,52 +5050,23 @@
         "L",
         "XL"
     ],
-    "description": "No Description",
-    "sku": "VARL-VAR01541-PNKPINLT-M",
-    "product_id": "7537939284157"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Colorblock Cardigan"
-    ],
-    "product_name": "Colorblock Cardigan",
-    "brand": "CARBON38",
-    "price": "$168.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6090-WHT-24SM-Colorblock-Cardigan-color-White-Tomato-Red-Pink-Lemonade_63802-Edit.jpg?v=1717440425&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "White/ Tomato Red/ Pink Lemonade",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Carbon38 Colorblock Cardigan will be your new go to layering piece. Cut and colored perfectly to match back to our Pleated Tennis Dress, this cardigan gives a classic yet elevated look.",
-    "sku": "CARB-YD6090-WHT-24SM-XS",
-    "product_id": "7620515037373"
+    "description": "The Mesh Zip Performance Polo will have you ready to take on the course and the court. Featuring a pique body, knit collar, and breathable mesh paneling this polo pairs easily with any of your favorite tennis or golf bottoms.",
+    "sku": "LTSP-T070-WHTGRNDRK-XL",
+    "product_id": "7541978824893"
 },
 {
     "breadcrumbs": [
         "home",
         "Designers",
         "NORMA KAMALI",
-        "Long Sleeve Crewneck Fringe"
+        "One Shoulder Peasant Top"
     ],
-    "product_name": "Long Sleeve Crewneck Fringe",
+    "product_name": "One Shoulder Peasant Top",
     "brand": "NORMA KAMALI",
-    "price": "$265.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-ST1246MFD20001-BLKBLK-Long-Sleeve-Crewneck-Fringe-color-Black-Black_0575-Edit.jpg?v=1711048243&width=1000",
+    "price": "$145.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-KK3226PL786001-BLKBLK-One-Shoulder-Peasant-Top-color-Black_0043-Edit.jpg?v=1717187790&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Black/Black",
+    "colour": "Black",
     "sizes": [
         "XS",
         "S",
@@ -5135,9 +5079,152 @@
         "L",
         "XL"
     ],
-    "description": "4-WAY STRETCH MESH. FRINGE.",
-    "sku": "NORMA-ST1246MFD20001-BLKBLK-XS",
-    "product_id": "7510628532413"
+    "description": "No Description",
+    "sku": "NORMA-KK3226PL786001-BLKBLK-XS",
+    "product_id": "7695943762109"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "NORMA KAMALI",
+        "Lazy Diana Top"
+    ],
+    "product_name": "Lazy Diana Top",
+    "brand": "NORMA KAMALI",
+    "price": "$160.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-ST2246MDE46003-GREYGRYDRK-Lazy-Diana-Top-color-Dark-Grey_0103-Edit.jpg?v=1717190937&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Dark Grey",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "No Description",
+    "sku": "NORMA-ST2246MDE46003-GREYGRYDRK-XS",
+    "product_id": "7590322897085"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "Long Sleeve Off Shoulder Tee"
+    ],
+    "product_name": "Long Sleeve Off Shoulder Tee",
+    "brand": "CARBON38",
+    "price": "$88.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD6028-DEEPLAG-24SM-Long-Sleeve-Off-Shoulder-Tee-color-Deep-Lagoon_0039-Edit.jpg?v=1715966842&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Deep Lagoon",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Inspired by our best-selling Off Shoulder Sweatshirt, the Off Shoulder Tee is the perfect on the go top for easy layering. Great for any occasion and pairs easily with any of our Melt, Takara, and Ribbed workout sets.",
+    "sku": "CARB-YD6028-DEEPLAG-24SM-XS",
+    "product_id": "7587695231165"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "525",
+        "Demi Tank"
+    ],
+    "product_name": "Demi Tank",
+    "brand": "525",
+    "price": "$78.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/525-110004778-WHTWHI-Demi-Tank-color-Bleach-White_65376-Edit.jpg?v=1717696385&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Bleach White",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS",
+        "S",
+        "M",
+        "L"
+    ],
+    "description": "Crafted for chic simplicity, its high crew neck adds a touch of sophistication to casual comfort. Perfect for layering or standalone style, pair it effortlessly with skirts or denim for a versatile look.",
+    "sku": "525-110004778-WHTWHI-XS",
+    "product_id": "7558342115517"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "CARBON38",
+        "One Shoulder Convertible Tank in Melt"
+    ],
+    "product_name": "One Shoulder Convertible Tank in Melt",
+    "brand": "CARBON38",
+    "price": "$98.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD273LP-SNOWLEO-24SM-One-Shoulder-Convertible-Bra-Top-color-Snow-Leopard_63834-Edit_53c0cbf1-5adc-41b1-b398-9c663b0434f3.jpg?v=1717540261&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "Snow Leopard",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "One tank, two ways. The One Shoulder Convertible Tank is cut from our exclusive Melt fabric, offering a second-skin fit with a buttery-soft feel. This sleek tank features a shelf bra and an adjustable strap that can be worn over the shoulder or asymmetrically.",
+    "sku": "CARB-YD6014LP-SNOWLEO-24SM-XS",
+    "product_id": "7567394209981"
+},
+{
+    "breadcrumbs": [
+        "home",
+        "Designers",
+        "SER.O.YA",
+        "Sharlie Sweater"
+    ],
+    "product_name": "Sharlie Sweater",
+    "brand": "SER.O.YA",
+    "price": "$178.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/SERO-3752-12-WHTBLUDRK-Sharlie-Sweater-color-White-Navy-Stripe_0306-Edit.jpg?v=1717179547&width=1000",
+    "reviews": "0 Reviews",
+    "colour": "White / Navy Stripe",
+    "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "description": "Cropped knit sweater with striped detailing across the chest and arms. Pair with the Poe Knit Pant or any of the Carbon38 Navy leggings.",
+    "sku": "SERO-3752-12-WHTBLUDRK-XS",
+    "product_id": "7521285243069"
 },
 {
     "breadcrumbs": [
@@ -5173,93 +5260,6 @@
         "home",
         "Designers",
         "CARBON38",
-        "Off Shoulder Sweatshirt in French Terry"
-    ],
-    "product_name": "Off Shoulder Sweatshirt in French Terry",
-    "brand": "CARBON38",
-    "price": "$148.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD615-SLSHY-Off-Shoulder-Sweatshirt-color-Slushy_60184-Edit.jpg?v=1715191971&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Slushy",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Off Shoulder Sweatshirt from Carbon38 adds plenty of cool comfort to your wardrobe. With a roomy fit, a slouchy silhouette, and a raw-edged asymmetrical neckline, this French terry sweatshirt keeps things effortlessly laid-back. Made in LA.",
-    "sku": "CARB-YD615-SLSHY-XS",
-    "product_id": "7587908157629"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Colorblock High Neck Tank"
-    ],
-    "product_name": "Colorblock High Neck Tank",
-    "brand": "CARBON38",
-    "price": "$108.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD345-BLUE-24SM-Colorblock-High-Neck-Tank-color-Navy-Digital-Green_1900-Edit.jpg?v=1716245205&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Navy/ Digital Green",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "81% Nylon 19% Spandex",
-    "sku": "CARB-YD345-BLUE-24SM-XS",
-    "product_id": "7631308619965"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
-        "Mod Tennis Top"
-    ],
-    "product_name": "Mod Tennis Top",
-    "brand": "CARBON38",
-    "price": "$158.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD353-DEEPLAG-24SM-Mod-Tennis-Top-color-Deep-Lagoon_1804-Edit.jpg?v=1715816632&width=1000",
-    "reviews": "0 Reviews",
-    "colour": "Deep Lagoon",
-    "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL"
-    ],
-    "description": "The Mod Tennis Top is a slightly cropped sleeveless top with a perfectly contrasted hem. This tennis top matches perfectly back to the Mod Tennis Skirt for a full look.",
-    "sku": "CARB-YD353-DEEPLAG-24SM-XS",
-    "product_id": "7587304308925"
-},
-{
-    "breadcrumbs": [
-        "home",
-        "Designers",
-        "CARBON38",
         "Pullover Sweatshirt"
     ],
     "product_name": "Pullover Sweatshirt",
@@ -5288,15 +5288,15 @@
     "breadcrumbs": [
         "home",
         "Designers",
-        "CARBON38",
-        "Long RacerBack Tank"
+        "NORMA KAMALI",
+        "Long Sleeve Crewneck Fringe"
     ],
-    "product_name": "Long RacerBack Tank",
-    "brand": "CARBON38",
-    "price": "$68.00 ",
-    "image_url": "https://carbon38.com/cdn/shop/files/CARB-YD335-SLSHY-24SM-Long-RacerBack-Tank-color-Slushy_63527-Edit.jpg?v=1714787544&width=1000",
+    "product_name": "Long Sleeve Crewneck Fringe",
+    "brand": "NORMA KAMALI",
+    "price": "$265.00 ",
+    "image_url": "https://carbon38.com/cdn/shop/files/NORMA-ST1246MFD20001-BLKBLK-Long-Sleeve-Crewneck-Fringe-color-Black-Black_0575-Edit.jpg?v=1711048243&width=1000",
     "reviews": "0 Reviews",
-    "colour": "Slushy",
+    "colour": "Black/Black",
     "sizes": [
         "XS",
         "S",
@@ -5309,8 +5309,8 @@
         "L",
         "XL"
     ],
-    "description": "No Description",
-    "sku": "CARB-YD335-SLSHY-24SM-S",
-    "product_id": "7587693985981"
+    "description": "4-WAY STRETCH MESH. FRINGE.",
+    "sku": "NORMA-ST1246MFD20001-BLKBLK-XS",
+    "product_id": "7510628532413"
 }
 ]

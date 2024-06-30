@@ -52,7 +52,7 @@ class CarbonSpider(scrapy.Spider):
         'colour': colour,
         'sizes': sizes,
         'description': description,
-        'sku': None,  # Placeholder for SKU extraction
+        'sku': None,  
         'product_id': product_id,
     }
 
@@ -63,6 +63,17 @@ class CarbonSpider(scrapy.Spider):
             item['sku'] = sku_match.group(1)
         else:
             item['sku'] = None
+
+        # for key, value in item.items():
+        #     data_type = type(value).__name__
+        #     yield {
+        #         'field_name': key,
+        #         'field_type': data_type,
+        #         'Example': value,
+        #     }
+
+        
+        yield item
         
 
-        yield item
+        
