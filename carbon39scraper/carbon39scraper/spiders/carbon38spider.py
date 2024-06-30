@@ -31,23 +31,24 @@ class CarbonSpider(scrapy.Spider):
     def parse_product(self,response):
 
 
-        script_content = response.xpath('//script[contains(., "var product = [{")]/text()').get()  #here the sku and product_id of a particular product is extracted from the script tag with the re module
-        sku_match = re.search(r"'sku'\s*:\s*\"(.*?)\"", script_content)
+        script_content = response.xpath('//script[contains(., "var product = [{")]/text()').get()  #here the sku of a particular product is extracted from the script tag with the re module
+        sku_match = re.search(r"'sku'\s*:\s*\"([^-]+-[^-]+-[^-]+)", script_content)
+
         sku = sku_match.group(1) if sku_match else None
+        product_name = response.css('h1.ProductMeta__Title::text').get().strip()
+        brand = response.css('h2.ProductMeta__Vendor a::text').get().strip()
  
 
         yield{
-                'breadcrumbs' : response.css('li.breadcrumb ::text').getall(),
-                'product_name' : response.css('h1.ProductMeta__Title::text').get().strip(),
-                'brand' : response.css('h2.ProductMeta__Vendor a::text').get().strip(),
-                'price' : response.css('span.ProductMeta__Price::text').get().strip(),
-                'image_url' : "https:" + response.css('div.AspectRatio img::attr(src)').get().strip(),
-                'reviews' : response.css('div.yotpo-bottom-line-basic-text::text').get().split(" ")[2] if response.css('div.yotpo-bottom-line-basic-text::text').get() else "0 Reviews",
+                'breadcrumbs': ["home","Designers",brand,product_name],
+                'product_name': product_name,
+                'brand': brand,
+                'price': response.css('span.ProductMeta__Price::text').get().strip(),
+                'image_url': "https:" + response.css('div.AspectRatio img::attr(src)').get().strip(),
+                'reviews': response.css('div.yotpo-sr-bottom-line-right-panel::text').get().split(" ")[2] if response.css('div.yotpo-sr-bottom-line-right-panel::text').get() else "0 Reviews",
                 'colour': response.css('span.ProductForm__SelectedValue ::text').get(),
-                'size' :[size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()],  # here i used list comprehension to take the size of the product only and the strip removes the spaces
+                'size':[size.strip() for size in response.css('li.HorizontalList__Item label::text').getall() if size.strip()],  # here i used list comprehension to take the size of the product only and the strip removes the spaces
                 "description":  response.css('div.Faq__AnswerWrapper span::text').get().strip() if response.css('div.Faq__AnswerWrapper span::text').get() else "No Description",
                 "sku": sku,
-                "product_id":response.css('status-save-button::attr(product-id)').get()
-
-        
+                "product_id":response.css('status-save-button::attr(product-id)').get() 
         }
